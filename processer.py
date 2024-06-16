@@ -1,6 +1,7 @@
 import os
 import pandas as pd
-
+import nltk
+from nltk.corpus import stopwords
 def Preprocess_Tweets(data):
 		
 	data['Text'] = data['Text'].str.lower()
@@ -234,6 +235,9 @@ def Preprocess_Tweets(data):
 	## FIX EXTRA SPACES AND ENDING PUNCTUATION
 	data['Text'] = data['Text'].str.replace(' +', ' ', regex=True)
 	data['Text'] = data['Text'].str.strip(' .!?,)(:-')
-
+	#Clear up meaningless words for NB
+	Stop = set([s.replace("'", '') for s in stopwords.words('english') if s not in ['not', 'up', 'down', 'above', 'below', 'under', 'against','no','shouldnt']])
+	data['Text'] = data['Text'].apply(lambda s: " ".join([word for word in s.split() if word not in Stop]))
+	data['Text'] = data['Text'].str.strip()
 
 	return data
