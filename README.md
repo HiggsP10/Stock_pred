@@ -4,5 +4,9 @@ The project is made up by 3 parts:<br />
 3. models: This file shows how we train different model based on the sentiment_stockprice data. We used (Random_Forest/LSTM/log_regression/XG_boost/KNN). We designed bot trading techniques which at most outperformed 5% income.
 ![alt text](./Binary.png)
 ![alt](./RF_LSTM.png)
-![altt](./EDA.png)
+![altt](./EDA.png) <br />
+Some bonus part in (3): <br />
+1. Can we categorize stocks regarding to their best fitting model based on their trading history? <br />
+2. Sometimes people like to spread fake news on twitter to get benefits on others, what if we design a trick to avoid this kind of influences?<br />
+![allt](./Trick.png)
 
