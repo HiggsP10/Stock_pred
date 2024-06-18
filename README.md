@@ -4,3 +4,5 @@ The project is made up by 3 parts:<br />
 3. models: This file shows how we train different model based on the sentiment_stockprice data. We used (Random_Forest/LSTM/log_regression/XG_boost/KNN). We designed bot trading techniques which at most outperformed 5% income.
 ![alt text](./Binary.png)
 ![alt](./RF_LSTM.png)
+![altt](./EDA.png)
+
