@@ -1,0 +1,980 @@
+Tweet Id,Ticker,Datetime,Text,Favs,RTs,Followers,Following,Is a RT,Sentiment
+742609908462440448,fox,2016-06-14 06:49:00,fiduciary management inc wi takes position twenty first century fox inc fox,0.0,0.0,998.0,0.0,False,1
+742541587188580352,fox,2016-06-14 02:18:00,,0.0,0.0,4.0,21.0,False,1
+742506407065354244,fox,2016-06-13 23:58:00,twenty first century foxs fox networks group cfo retire nasdaq read,0.0,0.0,14.0,2.0,False,1
+742478563400515585,fox,2016-06-13 22:07:00,fox networks longtime cfo mayberry retire read,0.0,0.0,14.0,2.0,False,1
+742478408072847360,fox,2016-06-13 22:07:00,fox networks names ahuja cfo read,0.0,0.0,14.0,2.0,False,1
+742478252736811008,fox,2016-06-13 22:06:00,fox networks longtime cfo mayberry retire read,0.0,0.0,14.0,2.0,False,1
+742460383470878723,fox,2016-06-13 20:55:00,fox networks group cfo del mayberry retire 30 years read,0.0,0.0,14.0,2.0,False,1
+742460227996385280,fox,2016-06-13 20:54:00,ravi ahuja replace del mayberry fox networks group cfo read,0.0,0.0,14.0,2.0,False,1
+742460072710656000,fox,2016-06-13 20:54:00,fox networks group cfo del mayberry retire read,0.0,0.0,14.0,2.0,False,1
+742459916862951426,fox,2016-06-13 20:53:00,longtime fox networks group chief financial officer del mayberry r read,0.0,0.0,14.0,2.0,False,0
+742459761505927168,fox,2016-06-13 20:52:00,brief fox networks group chief financial officer del mayberry retire read,0.0,0.0,14.0,2.0,False,1
+742459606106963968,fox,2016-06-13 20:52:00,longtime fox networks group chief financial officer del mayberry r read,0.0,0.0,14.0,2.0,False,1
+742452199842713600,fox,2016-06-13 20:22:00,fox cfo mayberry retiring evp succeed,0.0,0.0,356.0,1.0,False,1
+742452198638944256,fox,2016-06-13 20:22:00,fox cfo mayberry retiring evp succeed,0.0,0.0,1443.0,29.0,False,1
+742452197238001664,fox,2016-06-13 20:22:00,fox cfo mayberry retiring evp succeed,0.0,0.0,21916.0,30.0,False,1
+742438168612376577,fox,2016-06-13 19:27:00,independence day resurgence cast ring nasdaq stock market ope read,0.0,0.0,14.0,2.0,False,1
+742346519177617412,fox,2016-06-13 13:22:00,,0.0,0.0,4.0,21.0,False,1
+742339536106049536,fox,2016-06-13 12:55:00,positively randomly chosen indb idt nml jpm e fox ivr ht dakt ocn dlr details,0.0,0.0,5353.0,180.0,False,1
+742054873647206404,fox,2016-06-12 18:04:00,fox foxa twx fox’s x men movie franchise trouble,0.0,0.0,638.0,0.0,False,0
+741933917830254592,fox,2016-06-12 10:03:00,rt box office battle conjuring see sequels face sne viab foxa fox dis lgf via,0.0,4.0,13971.0,7759.0,True,0
+741890827048259584,fox,2016-06-12 07:12:00,stocktracker stock dd board 21 centry fox b cm fox 28.99 fox fox news,0.0,0.0,1138.0,1271.0,False,0
+741889420664537088,fox,2016-06-12 07:06:00,21 centry fox b cm fox 28.99 fox fox news channel taps jennifer griffin cover hillary clinton presiden,0.0,0.0,1852.0,446.0,False,0
+741858763527868416,fox,2016-06-12 05:04:00,rt lets say happens hulu live dollars push 8 10 percent price increases year currently dis fox …,0.0,1.0,1005.0,795.0,True,1
+741825546477146113,fox,2016-06-12 02:52:00,lets say happens hulu live dollars push 8 10 percent price increases year currently dis fox,2.0,1.0,2569.0,238.0,False,0
+741782876132397056,fox,2016-06-12 00:03:00,keep cbs fox stations leverage abc nbc extraneous well tower maybe,0.0,0.0,699.0,372.0,False,1
+741761311525212160,fox,2016-06-11 22:37:00,rt box office battle conjuring see sequels face sne viab foxa fox dis lgf via,0.0,4.0,2821.0,3550.0,True,1
+741531964201684992,fox,2016-06-11 07:26:00,brokerages set twenty first century fox inc fox price target dollars 2.06,0.0,0.0,530.0,6.0,False,1
+741531684173172736,fox,2016-06-11 07:25:00,brokerages set twenty first century fox inc fox price target dollars 2.06,0.0,0.0,1172.0,58.0,False,0
+741423530726821888,fox,2016-06-11 00:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,14.0,6.0,False,1
+741422255436144640,fox,2016-06-11 00:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10.0,9.0,False,1
+741420999997001728,fox,2016-06-11 00:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,7.0,False,0
+741420021935661056,fox,2016-06-11 00:01:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,15.0,7.0,False,1
+741418464754163712,fox,2016-06-10 23:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,10.0,False,1
+741417218525810688,fox,2016-06-10 23:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,10.0,False,1
+741415981013213184,fox,2016-06-10 23:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11.0,6.0,False,0
+741414719693684736,fox,2016-06-10 23:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,11.0,False,0
+741413442419101696,fox,2016-06-10 23:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,497.0,1338.0,False,1
+741412387274772480,fox,2016-06-10 23:31:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7924.0,8513.0,False,0
+741410919448731648,fox,2016-06-10 23:25:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7948.0,8554.0,False,1
+741409686843498496,fox,2016-06-10 23:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13829.0,14318.0,False,1
+741349324240588800,fox,2016-06-10 19:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,14.0,6.0,False,0
+741348108274151425,fox,2016-06-10 19:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10.0,9.0,False,0
+741346837517471744,fox,2016-06-10 19:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,7.0,False,1
+741345601196036097,fox,2016-06-10 19:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,15.0,7.0,False,1
+741344837383913472,fox,2016-06-10 19:02:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,10.0,False,0
+741343045791166466,fox,2016-06-10 18:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,10.0,False,0
+741341805082353664,fox,2016-06-10 18:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11.0,6.0,False,1
+741340572405927936,fox,2016-06-10 18:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,11.0,False,1
+741339261677506564,fox,2016-06-10 18:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,497.0,1338.0,False,1
+741338016422240256,fox,2016-06-10 18:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7924.0,8513.0,False,0
+741336951370964992,fox,2016-06-10 18:31:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7948.0,8554.0,False,0
+741335465941422081,fox,2016-06-10 18:25:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13829.0,14318.0,False,0
+741298944119066624,fox,2016-06-10 16:00:00,rt box office battle conjuring see sequels face sne viab foxa fox dis lgf via,0.0,4.0,13698.0,4455.0,True,0
+741298676560171008,fox,2016-06-10 15:59:00,rt box office battle conjuring see sequels face sne viab foxa fox dis lgf via,0.0,4.0,10691.0,9433.0,True,1
+741298591415730176,fox,2016-06-10 15:58:00,box office battle conjuring see sequels face sne viab foxa fox dis lgf via,1.0,4.0,13128.0,130.0,False,0
+741275064331538432,fox,2016-06-10 14:25:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,14.0,6.0,False,1
+741273852790112256,fox,2016-06-10 14:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10.0,9.0,False,0
+741272626807623680,fox,2016-06-10 14:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,7.0,False,1
+741271354020909056,fox,2016-06-10 14:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,15.0,7.0,False,0
+741270086414131200,fox,2016-06-10 14:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,10.0,False,1
+741269345930780673,fox,2016-06-10 14:02:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,10.0,False,0
+741267518652829696,fox,2016-06-10 13:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11.0,6.0,False,1
+741266315231539200,fox,2016-06-10 13:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,11.0,False,1
+741265058945245185,fox,2016-06-10 13:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,497.0,1338.0,False,1
+741263762691371008,fox,2016-06-10 13:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7924.0,8513.0,False,1
+741262478932344832,fox,2016-06-10 13:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7948.0,8554.0,False,1
+741261460492439552,fox,2016-06-10 13:31:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13829.0,14318.0,False,0
+741200934102020096,fox,2016-06-10 09:30:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,14.0,6.0,False,1
+741199530109108225,fox,2016-06-10 09:25:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10.0,9.0,False,0
+741198297243746304,fox,2016-06-10 09:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,7.0,False,0
+741197047538274304,fox,2016-06-10 09:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,15.0,7.0,False,0
+741195778329333760,fox,2016-06-10 09:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,10.0,False,1
+741194515923513344,fox,2016-06-10 09:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,10.0,False,0
+741193517909827584,fox,2016-06-10 09:01:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11.0,6.0,False,0
+741191981976653824,fox,2016-06-10 08:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,17.0,11.0,False,0
+741190725434519552,fox,2016-06-10 08:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,497.0,1338.0,False,1
+741189487217287173,fox,2016-06-10 08:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7924.0,8513.0,False,1
+741188226958905344,fox,2016-06-10 08:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7948.0,8554.0,False,1
+741186957447958528,fox,2016-06-10 08:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13829.0,14318.0,False,1
+741160640019111936,fox,2016-06-10 06:50:00,super bowl ad prices top dollars,0.0,0.0,21916.0,30.0,False,0
+740803991936851968,fox,2016-06-09 07:13:00,beaufort securities reaffirms speculative buy rating fox marble holdings plc fox,0.0,0.0,422.0,10.0,False,1
+740566687687155713,fox,2016-06-08 15:30:00,fox bear pattern confirmed short signal issued,0.0,0.0,493.0,1160.0,False,1
+740467271106199552,fox,2016-06-08 08:55:00,fox marble holdings plc fox earns “speculative buy” rating beaufort securities,0.0,0.0,2226.0,11.0,False,0
+740203473896013825,fox,2016-06-07 15:27:00,fox may go down 6 percent bear pattern confirmed chk confirmation 66 percent,0.0,0.0,493.0,1160.0,False,1
+740083053356306432,fox,2016-06-07 07:28:00,beaufort securities reiterates “speculative buy” rating fox marble holdings plc fox,0.0,0.0,998.0,0.0,False,0
+739802827971665922,fox,2016-06-06 12:55:00,today hurc hubs tph tbph evri ibb lark fox tei ahl c details,0.0,0.0,5351.0,180.0,False,0
+739723103236980736,fox,2016-06-06 07:38:00,haverford financial services inc dollars 021000 position twenty first century fox inc fox,0.0,0.0,525.0,6.0,False,1
+739722801330978816,fox,2016-06-06 07:37:00,haverford financial services inc dollars 021000 position twenty first century fox inc fox,0.0,0.0,1172.0,58.0,False,1
+739701398363865088,fox,2016-06-06 06:12:00,fox marble holdings plc fox given “speculative buy” rating beaufort securities,0.0,0.0,770.0,8.0,False,0
+739700583188312064,fox,2016-06-06 06:08:00,fox marble holdings plc fox given “speculative buy” rating beaufort securities,0.0,0.0,1084.0,11.0,False,0
+739700289742221312,fox,2016-06-06 06:07:00,fox marble holdings plc fox given “speculative buy” rating beaufort securities,0.0,0.0,6330.0,2292.0,False,1
+739636384621809664,fox,2016-06-06 01:53:00,rt ninja turtles tops box office dollars 5 million x men sequel slumps heavily via viab fox foxa twx dis,0.0,5.0,8180.0,7397.0,True,0
+739634663967326208,fox,2016-06-06 01:47:00,rt ninja turtles tops box office dollars 5 million x men sequel slumps heavily via viab fox foxa twx dis,0.0,5.0,2776.0,3732.0,True,1
+739634279727140864,fox,2016-06-06 01:45:00,rt ninja turtles tops box office dollars 5 million x men sequel slumps heavily via viab fox foxa twx dis,0.0,5.0,16076.0,7125.0,True,0
+739633734819975168,fox,2016-06-06 01:43:00,rt ninja turtles tops box office dollars 5 million x men sequel slumps heavily via viab fox foxa twx dis,0.0,5.0,9429.0,5045.0,True,1
+739633733142118400,fox,2016-06-06 01:43:00,ninja turtles tops box office dollars 5 million x men sequel slumps heavily via viab fox foxa twx dis,0.0,5.0,13028.0,130.0,False,1
+739425128765853696,fox,2016-06-05 11:54:00,texas permanent school fund dollars 194000 stake twenty first century fox inc fox,0.0,0.0,2209.0,11.0,False,1
+739037792290869248,fox,2016-06-04 10:15:00,mn services vermogensbeheer b v acquires new position twenty first century fox inc fox,0.0,0.0,519.0,6.0,False,1
+739037505626968064,fox,2016-06-04 10:14:00,mn services vermogensbeheer b v acquires new position twenty first century fox inc fox,0.0,0.0,1165.0,58.0,False,0
+738981210840502272,fox,2016-06-04 06:30:00,rt box office battle ninja turtles take x men sne viab foxa fox dis lgf via cmcsa twx cmcsk,0.0,4.0,13320.0,7185.0,True,1
+738811816785088512,fox,2016-06-03 19:17:00,xmen movie shitty 💩💩💩 fox foxa,0.0,0.0,10.0,35.0,False,1
+738766262247907331,fox,2016-06-03 16:16:00,― box office battle ninja turtles take x men sne viab foxa fox dis lgf…,0.0,0.0,83733.0,84114.0,False,1
+738766102499590144,fox,2016-06-03 16:15:00,rt box office battle ninja turtles take x men sne viab foxa fox dis lgf via cmcsa twx cmcsk,0.0,3.0,3116.0,3057.0,True,1
+738765648470388736,fox,2016-06-03 16:13:00,rt box office battle ninja turtles take x men sne viab foxa fox dis lgf via cmcsa twx cmcsk,0.0,3.0,13485.0,6297.0,True,1
+738765588483411968,fox,2016-06-03 16:13:00,rt box office battle ninja turtles take x men sne viab foxa fox dis lgf via cmcsa twx cmcsk,0.0,3.0,8256.0,6274.0,True,1
+738765582992953345,fox,2016-06-03 16:13:00,box office battle ninja turtles take x men sne viab foxa fox dis lgf via cmcsa twx cmcsk,0.0,4.0,13009.0,130.0,False,1
+738674666819182592,fox,2016-06-03 10:12:00,fox marble,0.0,0.0,1038.0,3580.0,False,0
+738646488516005888,fox,2016-06-03 08:20:00,twenty first century fox inc fox position cut franklin resources inc,0.0,0.0,995.0,0.0,False,1
+738645743716732928,fox,2016-06-03 08:17:00,fox marble holdings plcs speculative buy rating reiterated beaufort securities,0.0,0.0,4223.0,0.0,False,1
+738642826129465344,fox,2016-06-03 08:05:00,fox marble holdings plcs speculative buy rating reiterated beaufort securities,0.0,0.0,4584.0,2837.0,False,0
+738516671195795458,fox,2016-06-02 23:44:00,hundreds take 21 century fox buyouts read,0.0,0.0,13.0,2.0,False,0
+738481073785430017,fox,2016-06-02 21:23:00,twenty first century fox inches up 300 400 workers accept buyout read,0.0,0.0,13.0,2.0,False,1
+738479364296187904,fox,2016-06-02 21:16:00,theskimm receives dollars read,0.0,0.0,13.0,2.0,False,1
+738464295084658688,fox,2016-06-02 20:16:00,21 century fox pours money theskimm read,0.0,0.0,13.0,2.0,False,1
+738462896741441536,fox,2016-06-02 20:10:00,21 century fox invests theskimm read,0.0,0.0,13.0,2.0,False,1
+738462741417971712,fox,2016-06-02 20:10:00,21 century fox makes strategic investment millennials read,0.0,0.0,13.0,2.0,False,0
+738451711480594432,fox,2016-06-02 19:26:00,bofa merrill lynch adds twenty first century fox us1 list shares read,0.0,0.0,13.0,2.0,False,1
+738421567722541056,fox,2016-06-02 17:26:00,21 century fox makes big investment millennials read,0.0,0.0,14.0,2.0,False,1
+738411334564356097,fox,2016-06-02 16:45:00,fox 29.70 21 centry fox b cm fox added watch list right fox watching last price 29,0.0,0.0,929.0,440.0,False,1
+738403411507482625,fox,2016-06-02 16:14:00,rt seekingalpha fox 20 percent upside fair value,0.0,0.0,8593.0,5.0,False,1
+738400045288935424,fox,2016-06-02 16:01:00,lgf fox smell bo future trimming fat,0.0,0.0,328.0,889.0,False,0
+738399978016538625,fox,2016-06-02 16:00:00,lgf fox 300 400 employees 21 century fox voluntarily taken buyouts departures part dollars 50 million cost cutting,1.0,0.0,328.0,889.0,False,0
+738399187411210241,fox,2016-06-02 15:57:00,lgf im rooting fox buy lionsgate,0.0,0.0,328.0,889.0,False,1
+738387299940044801,fox,2016-06-02 15:10:00,chris gilbert chief executive marble holdings plc lon,0.0,0.0,85092.0,50832.0,False,1
+738351748423647232,fox,2016-06-02 12:49:00,momentum up fox last 3 days price crossed above 50 moving average strength come,1.0,0.0,363.0,516.0,False,1
+738297229224476672,fox,2016-06-02 09:12:00,21 century fox leads investment round millennial news service read,0.0,0.0,14.0,2.0,False,1
+738144649047482369,fox,2016-06-01 23:06:00,fox lose many 400 employees buyout effort read,0.0,0.0,14.0,2.0,False,0
+738135002743902208,fox,2016-06-01 22:27:00,hundreds fox employees take buyouts read,0.0,0.0,14.0,2.0,False,1
+738134847483351040,fox,2016-06-01 22:27:00,fox buyout offers accepted up 400 employees exclusive read,0.0,0.0,14.0,2.0,False,1
+738134692247965697,fox,2016-06-01 22:26:00,fox employees take buyouts hundreds read,0.0,0.0,14.0,2.0,False,1
+738134536861581312,fox,2016-06-01 22:26:00,fox employees take buyouts hundreds read,0.0,0.0,14.0,2.0,False,1
+738114460447952896,fox,2016-06-01 21:06:00,fox voluntary buyout package draws 300 400 employees,0.0,0.0,346.0,1.0,False,0
+738114459260968960,fox,2016-06-01 21:06:00,fox voluntary buyout package draws 300 400 employees,0.0,0.0,2380.0,29.0,False,1
+738114457868460032,fox,2016-06-01 21:06:00,fox voluntary buyout package draws 300 400 employees,0.0,0.0,21731.0,30.0,False,0
+738102859430957056,fox,2016-06-01 20:20:00,fox leads dollars million investment theskimms move video read,0.0,0.0,15.0,2.0,False,0
+738045240477548544,fox,2016-06-01 16:31:00,21 century fox leads dollars funding round theskimm anticipation read,0.0,0.0,14.0,2.0,False,1
+738045085149847552,fox,2016-06-01 16:30:00,21 century fox invests theskimm read,0.0,0.0,14.0,2.0,False,1
+737988809778827264,fox,2016-06-01 12:46:00,fox foxa 21 century fox leads new funding round theskimm,0.0,0.0,22.0,39.0,False,0
+737960078209355776,fox,2016-06-01 10:52:00,negative 1.4 percent alice sequel no match x men,0.0,0.0,227.0,547.0,False,0
+737810301807136768,fox,2016-06-01 00:57:00,macd bullish,0.0,0.0,4789.0,2535.0,False,1
+737760285130260480,fox,2016-05-31 21:38:00,disney negative 1.4 percent alice sequel no match x men dis fox foxa sne,0.0,0.0,35.0,37.0,False,1
+737677877336932354,fox,2016-05-31 16:11:00,disney negative 1.4 percent alice sequel no match x men dis fox foxa sne,0.0,0.0,83.0,176.0,False,1
+737676987242668037,fox,2016-05-31 16:07:00,disney negative 1.4 percent alice sequel no match x men,0.0,0.0,344.0,1.0,False,0
+737676985267150848,fox,2016-05-31 16:07:00,disney negative 1.4 percent alice sequel no match x men,0.0,0.0,3637.0,30.0,False,1
+737676983694286852,fox,2016-05-31 16:07:00,disney negative 1.4 percent alice sequel no match x men,0.0,0.0,21737.0,30.0,False,1
+737600593728929792,fox,2016-05-31 11:04:00,chartguy89 2016 trending stocks fox 29.26 stock charts fox 21 century fox inc,0.0,0.0,653.0,418.0,False,0
+737517181546553344,fox,2016-05-31 05:32:00,time warner attractive company supported cash return valuation,0.0,0.0,147.0,155.0,False,1
+737435018776219648,fox,2016-05-31 00:06:00,rt seekingalpha time warner attractive company supported cash return valuation,0.0,0.0,8589.0,5.0,False,1
+737428707061698560,fox,2016-05-30 23:41:00,rt x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa dis sne cmcsa cmcsk l,0.0,5.0,570.0,516.0,True,1
+737422883157213184,fox,2016-05-30 23:18:00,― x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa…,0.0,0.0,83261.0,83033.0,False,0
+737422211506659328,fox,2016-05-30 23:15:00,rt x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa dis sne cmcsa cmcsk l,0.0,5.0,15046.0,7920.0,True,0
+737421558654853120,fox,2016-05-30 23:12:00,rt x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa dis sne cmcsa cmcsk l,0.0,5.0,2623.0,2822.0,True,1
+737421539759562752,fox,2016-05-30 23:12:00,rt x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa dis sne cmcsa cmcsk l,0.0,5.0,10530.0,7019.0,True,1
+737421382326341632,fox,2016-05-30 23:12:00,rt x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa dis sne cmcsa cmcsk l,0.0,5.0,6451.0,4893.0,True,0
+737421251145175040,fox,2016-05-30 23:11:00,x men apocalypse tops box office dollars 0 million alice sequel falters fox foxa dis sne cmcsa cmcsk l,0.0,5.0,12920.0,130.0,False,0
+737384114853056512,fox,2016-05-30 20:44:00,dis fox ’ flop holiday weekend box office,0.0,0.0,7086.0,475.0,False,0
+737048972494311424,fox,2016-05-29 22:32:00,think twtr fb cut directly via fox cbs yhoo core direct business googl say well,0.0,0.0,144.0,122.0,False,1
+736944663924465664,fox,2016-05-29 15:37:00,3385132 shares twenty first century fox inc fox acquired norges bank,0.0,0.0,986.0,0.0,False,1
+736917858605797376,fox,2016-05-29 13:51:00,fox ‘x men’ dominating johnny depp’s ‘alice’ dollars 0 million,0.0,0.0,455.0,389.0,False,1
+736901015082029056,fox,2016-05-29 12:44:00,exactly knocking em dead fox either suspect folks lot wee bit worried independence day,0.0,0.0,806.0,10.0,False,1
+736566896376569860,fox,2016-05-28 14:36:00,twenty first century fox inc fox shares bought dnb asset management,0.0,0.0,754.0,8.0,False,0
+736546512042229760,fox,2016-05-28 13:15:00,180 bullish,0.0,0.0,4778.0,2540.0,False,1
+736423920568406016,fox,2016-05-28 05:08:00,rt box office battle x men vs alice blockbuster sequel clash sne viab foxa fox dis lgf via cmcs,0.0,4.0,2249.0,1856.0,True,1
+736322938593521665,fox,2016-05-27 22:27:00,180 bullish,0.0,0.0,4776.0,2540.0,False,1
+736314801916379136,fox,2016-05-27 21:55:00,chevy chase trust holdings inc buys 15480 shares twenty first century fox inc fox,0.0,0.0,1146.0,58.0,False,1
+736314799555006464,fox,2016-05-27 21:55:00,chevy chase trust holdings inc buys 15480 shares twenty first century fox inc fox,0.0,0.0,500.0,6.0,False,1
+736279858905415681,fox,2016-05-27 19:36:00,fox code ethics chief executive officer senior financial officers,0.0,0.0,286.0,0.0,False,1
+736233356707266562,fox,2016-05-27 16:31:00,aapl buying twx much fiction gone wind dis nflx fox cbs cmcsa via sne amzn chtr,0.0,0.0,329.0,91.0,False,1
+736230884752404480,fox,2016-05-27 16:21:00,rt box office battle x men vs alice blockbuster sequel clash sne viab foxa fox dis lgf via cmcs,0.0,3.0,13370.0,4881.0,True,0
+736230699913580544,fox,2016-05-27 16:20:00,rt box office battle x men vs alice blockbuster sequel clash sne viab foxa fox dis lgf via cmcs,0.0,3.0,14195.0,7474.0,True,0
+736230609316634628,fox,2016-05-27 16:20:00,rt box office battle x men vs alice blockbuster sequel clash sne viab foxa fox dis lgf via cmcs,0.0,3.0,13941.0,9621.0,True,0
+736230595487883265,fox,2016-05-27 16:20:00,box office battle x men vs alice blockbuster sequel clash sne viab foxa fox dis lgf via cmcs,0.0,4.0,12910.0,130.0,False,0
+736062972435406850,fox,2016-05-27 05:14:00,four studios not honoring theaters exclus lgf cmcsa via viab fox foxa amc rgc cnk dis twx,0.0,0.0,294.0,541.0,False,1
+735905695955030016,fox,2016-05-26 18:49:00,twenty first century fox fox – investment analysts’ recent ratings updates,0.0,0.0,1054.0,11.0,False,1
+735854254506680320,fox,2016-05-26 15:25:00,fox bear pattern confirmed short signal issued,0.0,0.0,475.0,1135.0,False,0
+735612949377622016,fox,2016-05-25 23:26:00,50 day res,0.0,0.0,4748.0,2541.0,False,1
+735538663002624000,fox,2016-05-25 18:30:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6829.0,7457.0,False,0
+735537233864884224,fox,2016-05-25 18:25:00,syy im ko lmt fox jci pagp int chscp aal become,1.0,0.0,11694.0,12370.0,False,0
+735536001481859072,fox,2016-05-25 18:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,18.0,6.0,False,1
+735532218794311680,fox,2016-05-25 18:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,14.0,7.0,False,0
+735531256696410112,fox,2016-05-25 18:01:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,9.0,7.0,False,0
+735493609571618816,fox,2016-05-25 15:31:00,ims capital management dollars 31000 stake twenty first century fox inc fox,0.0,0.0,501.0,6.0,False,0
+735493225318887425,fox,2016-05-25 15:30:00,ims capital management dollars 31000 stake twenty first century fox inc fox,0.0,0.0,1148.0,58.0,False,1
+735471835052158976,fox,2016-05-25 14:05:00,syy im ko lmt fox jci pagp int chscp aal become,1.0,0.0,5.0,10.0,False,1
+735470892642390016,fox,2016-05-25 14:01:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,9.0,10.0,False,1
+735469295921205248,fox,2016-05-25 13:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,448.0,1353.0,False,0
+735469075908943872,fox,2016-05-25 13:54:00,rt syy im ko lmt fox jci pagp int chscp aal become,0.0,1.0,1737.0,0.0,True,1
+735468060312764416,fox,2016-05-25 13:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,1.0,8.0,6.0,False,0
+735466798389288964,fox,2016-05-25 13:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,5.0,2.0,False,1
+735465534666473472,fox,2016-05-25 13:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6622.0,7243.0,False,1
+735464251385610240,fox,2016-05-25 13:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6786.0,7434.0,False,0
+735463154340265984,fox,2016-05-25 13:30:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11605.0,12369.0,False,1
+735461724409712640,fox,2016-05-25 13:25:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,16.0,6.0,False,1
+735459268565073920,fox,2016-05-25 13:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,9.0,9.0,False,0
+735458008185081856,fox,2016-05-25 13:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,7.0,False,1
+735456743791136768,fox,2016-05-25 13:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,8.0,7.0,False,0
+735397554607788032,fox,2016-05-25 09:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,4.0,10.0,False,1
+735396292776579072,fox,2016-05-25 09:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7.0,10.0,False,1
+735395175636275200,fox,2016-05-25 09:00:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,432.0,1352.0,False,1
+735393762294288384,fox,2016-05-25 08:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,1.0,6.0,False,1
+735392509937909760,fox,2016-05-25 08:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,1.0,2.0,False,0
+735391267115302912,fox,2016-05-25 08:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6609.0,7145.0,False,0
+735390004613160960,fox,2016-05-25 08:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6735.0,7094.0,False,1
+735388724889038849,fox,2016-05-25 08:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11506.0,12308.0,False,1
+735387557597458432,fox,2016-05-25 08:30:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,15.0,6.0,False,0
+735384960929042433,fox,2016-05-25 08:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,5.0,9.0,False,1
+735383726050402304,fox,2016-05-25 08:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,7.0,False,1
+735382451200090112,fox,2016-05-25 08:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7.0,7.0,False,0
+735257929830387712,fox,2016-05-24 23:55:00,cbs closes eighth straight year topping ratings,0.0,0.0,337.0,1.0,False,1
+735257928563724288,fox,2016-05-24 23:55:00,cbs closes eighth straight year topping ratings,0.0,0.0,2342.0,29.0,False,0
+735257927183826944,fox,2016-05-24 23:55:00,cbs closes eighth straight year topping ratings,0.0,0.0,21642.0,30.0,False,0
+735165108347797504,fox,2016-05-24 17:46:00,sensitive disneys stock price number espn u subscribers,0.0,0.0,2425.0,230.0,False,0
+735154850812530688,fox,2016-05-24 17:05:00,salphatrending cord cutting new age consumer,0.0,0.0,1560.0,1422.0,False,0
+735154415850672128,fox,2016-05-24 17:04:00,rt seekingalpha cord cutting new age consumer,0.0,0.0,8602.0,4.0,False,0
+735153422597394434,fox,2016-05-24 17:00:00,cord cutting new age consumer,0.0,0.0,12454.0,29.0,False,1
+735153043675709440,fox,2016-05-24 16:58:00,seekingalpha cord cutting new age consumer,0.0,0.0,1481.0,1006.0,False,1
+735145294992527360,fox,2016-05-24 16:27:00,sensitive cbs stock price cable networks revenues,0.0,0.0,2425.0,230.0,False,0
+735104695849472000,fox,2016-05-24 13:46:00,fox staffers leaving via buyouts include pr affiliate execs read,0.0,0.0,15.0,2.0,False,1
+735103578659033089,fox,2016-05-24 13:42:00,waiting doh media consolidation,0.0,0.0,2889.0,1203.0,False,1
+734964781602340865,fox,2016-05-24 04:30:00,21 century fox nasdaq 21 century fox shares added credit read,0.0,0.0,15.0,2.0,False,1
+734887756296425472,fox,2016-05-23 23:24:00,21 century fox shares added credit suisses global us focus li read,0.0,0.0,15.0,2.0,False,0
+734860929305743360,fox,2016-05-23 21:37:00,fox job buyout plan means longtime execs exiting,0.0,0.0,21614.0,30.0,False,1
+734848459480530945,fox,2016-05-23 20:48:00,fox staffers leaving today via buyouts include pr affiliate execs read,0.0,0.0,15.0,2.0,False,0
+734807865840570368,fox,2016-05-23 18:07:00,pretty generous valuation based ott pay tv service could see exclusivity dis fox,0.0,0.0,107.0,73.0,False,0
+734786145754578945,fox,2016-05-23 16:40:00,billionaire jeffrey ubben trims 13 f portfolio remains bullish stocks ads bhi fox msft,1.0,0.0,13297.0,741.0,False,0
+734786016150716416,fox,2016-05-23 16:40:00,billionaire jeffrey ubben trims 13 f portfolio remains bullish stocks ads bhi fox msft,0.0,0.0,300.0,13.0,False,1
+734752378793152514,fox,2016-05-23 14:26:00,tracking jeffrey ubbens valueact portfolio first quarter 2016 update,0.0,0.0,2886.0,1203.0,False,1
+734751778093273089,fox,2016-05-23 14:24:00,following alpha valueact capital first quarter 2016 update,0.0,0.0,2886.0,1203.0,False,0
+734730658262745088,fox,2016-05-23 13:00:00,saquickideas waiting doh media consolidation,0.0,0.0,1548.0,1422.0,False,1
+734730424132501504,fox,2016-05-23 12:59:00,rt seekingalpha waiting doh media consolidation,0.0,0.0,8601.0,5.0,False,0
+734729443881713664,fox,2016-05-23 12:55:00,seekingalpha waiting doh media consolidation,0.0,0.0,1493.0,1006.0,False,1
+734613625780985856,fox,2016-05-23 05:15:00,tracking jeffrey ubbens valueact portfolio first quarter 2016 update,1.0,0.0,1974.0,29.0,False,1
+734515820823478272,fox,2016-05-22 22:46:00,investorslive4 u seekingalpha following alpha valueact capital first quarter 2016 update,0.0,0.0,1369.0,1193.0,False,0
+734515270883151873,fox,2016-05-22 22:44:00,rt seekingalpha following alpha valueact capital first quarter 2016 update,0.0,0.0,8602.0,5.0,False,1
+734514220923027460,fox,2016-05-22 22:40:00,seekingalpha following alpha valueact capital first quarter 2016 update,0.0,0.0,1493.0,1006.0,False,0
+734512298094669824,fox,2016-05-22 22:32:00,following alpha valueact capital first quarter 2016 update,0.0,0.0,1971.0,29.0,False,1
+734484979028135937,fox,2016-05-22 20:43:00,box office ‘angry birds’ debuts dollars 9 box office ‘angry birds’ debuts dollars 9 sne dis cmcsa fox,0.0,0.0,7801.0,1616.0,False,1
+734215549262041088,fox,2016-05-22 02:53:00,rt box office battle angry birds likely topple captain america sne viab foxa fox dis lgf via cmc,0.0,4.0,14013.0,6885.0,True,1
+733926358892568576,fox,2016-05-21 07:44:00,rt box office battle angry birds likely topple captain america sne viab foxa fox dis lgf via cmc,0.0,3.0,2486.0,4288.0,True,0
+733919363070320641,fox,2016-05-21 07:16:00,rt box office battle angry birds likely topple captain america sne viab foxa fox dis lgf via cmc,0.0,2.0,9832.0,9592.0,True,0
+733836195126497280,fox,2016-05-21 01:45:00,rt box office battle angry birds likely topple captain america sne viab foxa fox dis lgf via cmc,0.0,1.0,15732.0,6869.0,True,1
+733731640397201408,fox,2016-05-20 18:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,310.0,823.0,False,0
+733730391476035584,fox,2016-05-20 18:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,4.0,10.0,False,1
+733727824452976640,fox,2016-05-20 18:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,15.0,7.0,False,1
+733726773100347393,fox,2016-05-20 18:31:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,14.0,6.0,False,1
+733697231358824448,fox,2016-05-20 16:33:00,box office battle angry birds likely topple captain america sne viab foxa fox dis lgf via cmc,0.0,4.0,12838.0,130.0,False,1
+733682552310013953,fox,2016-05-20 15:35:00,dark conspiracy theory dis not purposefully cross subsidize fox properties dumber,0.0,0.0,323.0,262.0,False,1
+733659931816165377,fox,2016-05-20 14:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6291.0,6725.0,False,0
+733659154880057345,fox,2016-05-20 14:02:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6242.0,6558.0,False,1
+733657374242820097,fox,2016-05-20 13:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,300.0,823.0,False,0
+733656131369832448,fox,2016-05-20 13:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,3.0,10.0,False,0
+733654886609477632,fox,2016-05-20 13:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6.0,7.0,False,0
+733653627965968384,fox,2016-05-20 13:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,13.0,7.0,False,1
+733652341233160193,fox,2016-05-20 13:35:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10.0,6.0,False,1
+733651298076200961,fox,2016-05-20 13:31:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,11166.0,11241.0,False,1
+733588771933818880,fox,2016-05-20 09:22:00,chris gilbert chief executive marble holdings plc lon,0.0,0.0,85098.0,50835.0,False,1
+733588045606227969,fox,2016-05-20 09:19:00,chris gilbert chief executive marble holdings plc lon,0.0,0.0,85098.0,50835.0,False,0
+733585625190797312,fox,2016-05-20 09:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6273.0,6725.0,False,1
+733584358825562112,fox,2016-05-20 09:05:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6230.0,6557.0,False,1
+733583365165580289,fox,2016-05-20 09:01:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,284.0,823.0,False,1
+733581828573954049,fox,2016-05-20 08:55:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,1.0,10.0,False,1
+733580580453896192,fox,2016-05-20 08:50:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,2.0,7.0,False,0
+733579342488342528,fox,2016-05-20 08:45:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10.0,7.0,False,1
+733578080564838400,fox,2016-05-20 08:40:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,9.0,6.0,False,1
+733576803676102656,fox,2016-05-20 08:35:00,syy im ko lmt fox jci pagp int chscp aal become,1.0,0.0,11165.0,11242.0,False,1
+733443659211886592,fox,2016-05-19 23:46:00,below keltner,0.0,0.0,4722.0,2553.0,False,1
+733423575017754624,fox,2016-05-19 22:26:00,21 century fox splits media chores long review read,0.0,0.0,14.0,2.0,False,0
+733305346425380869,fox,2016-05-19 14:36:00,21 century fox splits media chores long review read,0.0,0.0,14.0,2.0,False,0
+733217119643521024,fox,2016-05-19 08:45:00,twenty first century fox inc fox receives dollars 2.06 average target price analysts,0.0,0.0,495.0,6.0,False,1
+733216726708539392,fox,2016-05-19 08:44:00,twenty first century fox inc fox receives dollars 2.06 average target price analysts,0.0,0.0,1142.0,58.0,False,1
+733215816028684288,fox,2016-05-19 08:40:00,twenty first century fox inc fox receives dollars 2.06 average target price analysts,0.0,0.0,965.0,0.0,False,0
+733176281467125760,fox,2016-05-19 06:03:00,fox babson capital management llc continues hold stake twenty first century fox inc…,0.0,0.0,626.0,5.0,False,1
+733176150101495809,fox,2016-05-19 06:03:00,fox babson capital management llc continues hold stake twenty first century fox inc…,0.0,0.0,162.0,0.0,False,1
+733103089574653952,fox,2016-05-19 01:12:00,twenty first century fox inc fox shares sold compagnie odier sca,0.0,0.0,2170.0,11.0,False,1
+732998032027947008,fox,2016-05-18 18:15:00,fox below 200 day sma 28. 5 days lm 2 2 nearlo prvclo atpivs2 accel alltfs firmtrnd 75 percent ch 1.6 percent bigflt 1.5 billion,0.0,0.0,6750.0,271.0,False,0
+732973785905811456,fox,2016-05-18 16:39:00,draftday publicly traded option multi billion dollar us industry krft cmcsa googl fox dday,0.0,0.0,1598.0,527.0,False,0
+732943091913494531,fox,2016-05-18 14:37:00,rt citi says sell discovery scripps ahead new hulu offering disca sni dis foxa fox cmcsa cmcsk via,0.0,4.0,2749.0,2970.0,True,1
+732943036171214848,fox,2016-05-18 14:36:00,rt citi says sell discovery scripps ahead new hulu offering disca sni dis foxa fox cmcsa cmcsk via,0.0,4.0,8693.0,7771.0,True,1
+732943015866695680,fox,2016-05-18 14:36:00,rt citi says sell discovery scripps ahead new hulu offering disca sni dis foxa fox cmcsa cmcsk via,0.0,4.0,14089.0,7754.0,True,0
+732942991590035457,fox,2016-05-18 14:36:00,rt citi says sell discovery scripps ahead new hulu offering disca sni dis foxa fox cmcsa cmcsk via,0.0,4.0,10359.0,7356.0,True,1
+732942986250571781,fox,2016-05-18 14:36:00,citi says sell discovery scripps ahead new hulu offering disca sni dis foxa fox cmcsa cmcsk via,0.0,4.0,12794.0,130.0,False,0
+732910700759113728,fox,2016-05-18 12:28:00,rt draftday publicly traded option multi billion dollar us industry krft cmcsa googl fox dday,0.0,1.0,207.0,554.0,True,1
+732883199139971072,fox,2016-05-18 10:39:00,draftday publicly traded option multi billion dollar us industry krft cmcsa googl fox dday,0.0,1.0,351.0,13.0,False,1
+732861114933993472,fox,2016-05-18 09:11:00,rt draftday publicly traded option multi billion dollar us industry krft cmcsa googl fox dday,0.0,2.0,193.0,467.0,True,1
+732779581153935360,fox,2016-05-18 03:47:00,draftday publicly traded option multi billion dollar us industry krft cmcsa googl fox dday,1.0,2.0,1600.0,527.0,False,1
+732713348794552321,fox,2016-05-17 23:24:00,stochastic os,0.0,0.0,4701.0,2555.0,False,0
+732567542355480576,fox,2016-05-17 13:44:00,could ott deals add significant revenue fox,0.0,0.0,2427.0,230.0,False,1
+732354360722739200,fox,2016-05-16 23:37:00,research analysts’ weekly ratings updates twenty first century fox fox,0.0,0.0,728.0,8.0,False,1
+732353148136894465,fox,2016-05-16 23:32:00,research analysts’ weekly ratings updates twenty first century fox fox,0.0,0.0,6250.0,2293.0,False,1
+732344509519020032,fox,2016-05-16 22:58:00,fox long trade idea 88 percent wins avg 1.2 percent greater,0.0,0.0,4744.0,840.0,False,0
+732330105113063429,fox,2016-05-16 22:01:00,scan results fell below 50 dma today shak dis amcx r sni aes fox,0.0,0.0,680.0,45.0,False,1
+732316126982574081,fox,2016-05-16 21:05:00,alkeon capital management llc sells 522293 shares twenty first century fox inc fox,0.0,0.0,952.0,0.0,False,1
+732302773581123585,fox,2016-05-16 20:12:00,twenty first century fox inc fox receives average recommendation “buy” brokerages,0.0,0.0,6250.0,2293.0,False,1
+732299966815801344,fox,2016-05-16 20:01:00,twenty first century fox inc fox receives average recommendation “buy” brokerages,0.0,0.0,726.0,8.0,False,1
+732296348217704448,fox,2016-05-16 19:47:00,could ott deals add significant revenue fox,0.0,0.0,2427.0,230.0,False,1
+732216252953952256,fox,2016-05-16 14:28:00,twtr changes social news largest non founder sh twtr fox broker deal,2.0,0.0,269.0,1505.0,False,0
+732136065448861696,fox,2016-05-16 09:10:00,seth klarman nearly doubles stake twenty first century fox read,0.0,0.0,13.0,2.0,False,1
+732070457113862144,fox,2016-05-16 04:49:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,39.0,21.0,94.0,True,0
+732045540830154752,fox,2016-05-16 03:10:00,rt commented teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,1.0,1241.0,173.0,True,1
+732045309237321729,fox,2016-05-16 03:09:00,commented teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,1.0,3.0,5.0,False,1
+731976153880252421,fox,2016-05-15 22:34:00,rt captain america dominant second week disney box office wins continue dis sne rgc amc fox foxa,0.0,5.0,527.0,468.0,True,0
+731972354977476609,fox,2016-05-15 22:19:00,rt captain america dominant second week disney box office wins continue dis sne rgc amc fox foxa,0.0,4.0,8984.0,9053.0,True,0
+731972064169607175,fox,2016-05-15 22:18:00,rt captain america dominant second week disney box office wins continue dis sne rgc amc fox foxa,0.0,4.0,2530.0,4112.0,True,1
+731971343491665921,fox,2016-05-15 22:15:00,rt captain america dominant second week disney box office wins continue dis sne rgc amc fox foxa,0.0,4.0,12626.0,3042.0,True,1
+731970725746253824,fox,2016-05-15 22:13:00,rt captain america dominant second week disney box office wins continue dis sne rgc amc fox foxa,0.0,4.0,15237.0,7386.0,True,0
+731970095098929152,fox,2016-05-15 22:10:00,captain america dominant second week disney box office wins continue dis sne rgc amc fox foxa,1.0,5.0,12751.0,130.0,False,1
+731969205671743488,fox,2016-05-15 22:07:00,teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,0.0,277.0,542.0,False,1
+731753615262617600,fox,2016-05-15 07:50:00,rt teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,1.0,1240.0,173.0,True,0
+731752454920896512,fox,2016-05-15 07:45:00,teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,1.0,462.0,230.0,False,1
+731738860334374912,fox,2016-05-15 06:51:00,rt box office battle disney another weekend top two films sne viab foxa fox dis lgf via cmc,0.0,4.0,2336.0,4603.0,True,0
+731670757856546816,fox,2016-05-15 02:21:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,38.0,65.0,365.0,True,1
+731645379708588032,fox,2016-05-15 00:40:00,rt teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,1.0,1242.0,173.0,True,1
+731644656505606147,fox,2016-05-15 00:37:00,teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,1.0,38394.0,38060.0,False,0
+731540576181571584,fox,2016-05-14 17:43:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,38.0,294.0,493.0,True,1
+731500180588118016,fox,2016-05-14 15:03:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,37.0,61.0,377.0,True,0
+731478843157032961,fox,2016-05-14 13:38:00,rt box office battle disney another weekend top two films sne viab foxa fox dis lgf via cmc,0.0,3.0,10685.0,7193.0,True,1
+731475406033817600,fox,2016-05-14 13:25:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,36.0,300.0,509.0,True,1
+731472120681799681,fox,2016-05-14 13:11:00,rt box office battle disney another weekend top two films sne viab foxa fox dis lgf via cmc,0.0,3.0,9034.0,9212.0,True,1
+731353569195085824,fox,2016-05-14 05:20:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,35.0,811.0,1822.0,True,0
+731343241572962304,fox,2016-05-14 04:39:00,rt teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,1.0,105.0,818.0,True,1
+731329239941808128,fox,2016-05-14 03:44:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,34.0,245.0,196.0,True,1
+731324788006895621,fox,2016-05-14 03:26:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,33.0,161.0,185.0,True,1
+731288366302498816,fox,2016-05-14 01:01:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,32.0,217.0,488.0,True,0
+731285904552124416,fox,2016-05-14 00:52:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,32.0,3020.0,2290.0,True,1
+731285150357704706,fox,2016-05-14 00:49:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,30.0,82.0,254.0,True,1
+731284990009446400,fox,2016-05-14 00:48:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,30.0,124.0,12.0,True,0
+731283703826124800,fox,2016-05-14 00:43:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,30.0,329.0,366.0,True,0
+731280976702242816,fox,2016-05-14 00:32:00,twenty first century fox inc fox shares sold nuveen asset management llc,0.0,0.0,6234.0,2293.0,False,1
+731280507745513473,fox,2016-05-14 00:30:00,rt breaking news teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,2.0,1244.0,173.0,True,1
+731278247984517122,fox,2016-05-14 00:21:00,rt breaking news teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,2.0,3455.0,3466.0,True,1
+731276645726887936,fox,2016-05-14 00:15:00,breaking news teppers 13 f new stakes fb fox bac vrx stake already dissolved,2.0,2.0,19053.0,16997.0,False,1
+731266950182080517,fox,2016-05-13 23:36:00,teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,0.0,384.0,604.0,False,1
+731261852458594304,fox,2016-05-13 23:16:00,bullish doji,0.0,0.0,4666.0,2556.0,False,0
+731260885134680064,fox,2016-05-13 23:12:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,27.0,173.0,680.0,True,1
+731255018079305728,fox,2016-05-13 22:49:00,rt teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,1.0,1144.0,1138.0,True,1
+731255016854556673,fox,2016-05-13 22:49:00,rt teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,2.0,1144.0,1138.0,True,1
+731252775900852224,fox,2016-05-13 22:40:00,clearbridge investments llc dollars 0393000 stake twenty first century fox inc fox,0.0,0.0,2151.0,11.0,False,1
+731252768187518976,fox,2016-05-13 22:40:00,rt teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,2.0,1244.0,173.0,True,0
+731252693826572288,fox,2016-05-13 22:40:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,27.0,174.0,565.0,True,1
+731250416499888128,fox,2016-05-13 22:30:00,teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,1.0,15.0,28.0,False,1
+731250385533304832,fox,2016-05-13 22:30:00,teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,0.0,2.0,3.0,4.0,False,1
+731248268580126721,fox,2016-05-13 22:22:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,27.0,143.0,251.0,True,1
+731247492445179905,fox,2016-05-13 22:19:00,rt marketcurrents teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,0.0,4214.0,4930.0,False,1
+731241597229256704,fox,2016-05-13 21:55:00,teppers 13 f new stakes fb fox bac vrx sta vrx bac fb fox foxa aapl hpe emn wpz etp kmi,1.0,0.0,4170.0,4984.0,False,0
+731240838349524993,fox,2016-05-13 21:52:00,teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,1.0,317.0,1.0,False,0
+731240835715469312,fox,2016-05-13 21:52:00,teppers 13 f new stakes fb fox bac vrx stake already dissolved,0.0,0.0,2262.0,29.0,False,1
+731240834390097920,fox,2016-05-13 21:52:00,teppers 13 f new stakes fb fox bac vrx stake already dissolved,1.0,0.0,21472.0,30.0,False,0
+731236584331190272,fox,2016-05-13 21:36:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,129.0,1824.0,True,1
+731235061983367168,fox,2016-05-13 21:29:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,211.0,579.0,True,1
+731231966650093568,fox,2016-05-13 21:17:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,99.0,452.0,True,1
+731231791491756032,fox,2016-05-13 21:16:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,72.0,294.0,True,1
+731231766820716544,fox,2016-05-13 21:16:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,74.0,150.0,True,0
+731230593023922176,fox,2016-05-13 21:12:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,111.0,49.0,True,0
+731230403256672257,fox,2016-05-13 21:11:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,3500.0,1379.0,True,1
+731229563527823361,fox,2016-05-13 21:08:00,want latest upgrades downgrades fox petx pe coty rna checkout marketbeat daily,0.0,0.0,4189.0,0.0,False,0
+731227855439417345,fox,2016-05-13 21:01:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,283.0,388.0,True,1
+731227515243646976,fox,2016-05-13 20:59:00,instant rt cnbcnow appaloosas 13 f new bac fb fox stake…,0.0,0.0,789.0,708.0,False,1
+731226922672398338,fox,2016-05-13 20:57:00,cnbc rt cnbcnow appaloosas 13 f new bac fb fox stake held vrx person familiar says…,0.0,0.0,1397.0,1137.0,False,1
+731226582493208577,fox,2016-05-13 20:56:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,1509.0,966.0,True,0
+731226140954775554,fox,2016-05-13 20:54:00,rt cnbc rt cnbcnow appaloosas 13 f new bac fb fox stake held vrx person familiar s…,2.0,0.0,1019.0,1651.0,False,0
+731225836637028352,fox,2016-05-13 20:53:00,cnbcnow appaloosas 13 f new bac fb fox stake held vrx person familiar says t…,0.0,0.0,921.0,33.0,False,0
+731225780991229953,fox,2016-05-13 20:53:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,1067.0,403.0,True,1
+731225252668317697,fox,2016-05-13 20:51:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,3851.0,2243.0,True,1
+731225140042858500,fox,2016-05-13 20:50:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,138.0,109.0,True,0
+731225100821794816,fox,2016-05-13 20:50:00,rt cnbcnow appaloosas 13 f new bac fb fox stake held vrx person familiar says t… …,0.0,1.0,1241.0,173.0,True,1
+731225090336034816,fox,2016-05-13 20:50:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,638.0,122.0,True,1
+731225059918913537,fox,2016-05-13 20:50:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,1241.0,173.0,True,1
+731224939089399808,fox,2016-05-13 20:49:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,2242.0,3110.0,True,0
+731224616862162944,fox,2016-05-13 20:48:00,rightawayfunds shared cnbc rt cnbcnow appaloosas 13 f new bac fb fox stake held vrx b…,0.0,0.0,1299.0,973.0,False,1
+731224602681180161,fox,2016-05-13 20:48:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,23.0,318.0,647.0,True,1
+731224583563399168,fox,2016-05-13 20:48:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded …,0.0,0.0,375.0,360.0,False,1
+731224488189251586,fox,2016-05-13 20:47:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,4.0,2340638.0,968.0,True,1
+731224483642654722,fox,2016-05-13 20:47:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,4.0,898.0,385.0,True,1
+731224451631583232,fox,2016-05-13 20:47:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,4.0,127.0,271.0,True,1
+731224253593493505,fox,2016-05-13 20:47:00,cnbcnow appaloosas 13 f new bac fb fox stake held vrx person familiar says t…,0.0,1.0,1379.0,1227.0,False,1
+731224239571865602,fox,2016-05-13 20:46:00,rt appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,0.0,4.0,22680.0,1044.0,True,1
+731224197293350912,fox,2016-05-13 20:46:00,appaloosas 13 f new bac fb fox stake held vrx person familiar says traded,31.0,39.0,173523.0,61.0,False,1
+731217469692465152,fox,2016-05-13 20:20:00,b12 n may never happen disney recent results show espn may not cornerstone cable bundle,0.0,0.0,283.0,715.0,False,1
+731190889444347904,fox,2016-05-13 18:34:00,rt box office battle disney another weekend top two films sne viab foxa fox dis lgf via cmc,0.0,1.0,525.0,468.0,True,1
+731188354146914304,fox,2016-05-13 18:24:00,box office battle disney another weekend top two films sne viab foxa fox dis lgf via cmc,1.0,4.0,12742.0,130.0,False,1
+731084479494754304,fox,2016-05-13 11:31:00,insider selling twenty first century fox inc fox ceo sells dollars 468038.55 stock,0.0,0.0,396.0,10.0,False,1
+731077600525815808,fox,2016-05-13 11:04:00,ancient art l p dollars 5807000 stake twenty first century fox inc fox,0.0,0.0,724.0,8.0,False,0
+730924854329933824,fox,2016-05-13 00:57:00,rt elder red,0.0,1.0,384.0,768.0,True,1
+730918799042580480,fox,2016-05-13 00:33:00,elder red,0.0,1.0,4654.0,2558.0,False,1
+730841503463956481,fox,2016-05-12 19:26:00,fox announces six new pickups including pitch lethal weapon read,0.0,0.0,13.0,2.0,False,1
+730812991965265920,fox,2016-05-12 17:32:00,leucadia national achieves analyst rank surpassing twenty first century fox luk,0.0,0.0,834.0,1189.0,False,1
+730812966212231168,fox,2016-05-12 17:32:00,leucadia national achieves analyst rank surpassing twenty first century fox luk study,0.0,0.0,1544.0,594.0,False,1
+730738382960250880,fox,2016-05-12 12:36:00,fox twx dis cmcsa market dis satisfaction regards slim public profile,0.0,0.0,475.0,472.0,False,1
+730738078470541312,fox,2016-05-12 12:35:00,fox twx dis cmcsa label sell newtons aapl,0.0,0.0,475.0,472.0,False,1
+730737829819600896,fox,2016-05-12 12:34:00,fox twx dis cmcsa upscale buggy whips ad revenue media,0.0,0.0,475.0,472.0,False,1
+730737282605563904,fox,2016-05-12 12:31:00,fox twx dis cmcsa mob technology retail media,0.0,0.0,475.0,472.0,False,1
+730559740946853888,fox,2016-05-12 00:46:00,carlson capital l p purchases new position twenty first century fox inc fox,0.0,0.0,1027.0,11.0,False,0
+730559238259494913,fox,2016-05-12 00:44:00,carlson capital l p purchases new position twenty first century fox inc fox,0.0,0.0,6231.0,2293.0,False,1
+730504090099298304,fox,2016-05-11 21:05:00,stifel nicolaus reaffirms “buy” rating twenty first century fox inc fox,0.0,0.0,940.0,0.0,False,1
+730504088467738629,fox,2016-05-11 21:05:00,stifel nicolaus reaffirms “buy” rating twenty first century fox inc fox,0.0,0.0,940.0,0.0,False,1
+730504080267849728,fox,2016-05-11 21:05:00,telsey advisory group reaffirms outperform rating twenty first century fox inc fox,0.0,0.0,940.0,0.0,False,1
+730503711190036485,fox,2016-05-11 21:03:00,twenty first century fox inc fox earns buy rating goldman sachs,0.0,0.0,719.0,8.0,False,1
+730503708400832513,fox,2016-05-11 21:03:00,twenty first century fox inc fox earns “overweight” rating pacific crest,0.0,0.0,719.0,8.0,False,0
+730503705989107713,fox,2016-05-11 21:03:00,topeka capital markets reaffirms hold rating twenty first century fox inc fox,0.0,0.0,719.0,8.0,False,1
+730503124482396160,fox,2016-05-11 21:01:00,twenty first century fox inc fox earns buy rating goldman sachs,0.0,0.0,402.0,10.0,False,1
+730503122175590400,fox,2016-05-11 21:01:00,topeka capital markets reaffirms hold rating twenty first century fox inc fox,0.0,0.0,402.0,10.0,False,1
+730461925612621824,fox,2016-05-11 18:17:00,actually like cmcsa dis fox order not sure cur val worth risk cmcsa well positioned imv,0.0,0.0,143.0,188.0,False,1
+730458648728592384,fox,2016-05-11 18:04:00,,0.0,0.0,2044.0,29.0,False,1
+730415703191367682,fox,2016-05-11 15:14:00,rt noteworthy insider buying selling transactions witnessed five companies wft newm matr fox int http…,0.0,1.0,1159.0,1136.0,True,0
+730414699326537728,fox,2016-05-11 15:10:00,noteworthy insider buying selling transactions witnessed five companies wft newm matr fox int,0.0,1.0,13228.0,735.0,False,0
+730414626412826624,fox,2016-05-11 15:09:00,noteworthy insider buying selling transactions witnessed five companies wft newm matr fox int,0.0,0.0,292.0,13.0,False,0
+730194537923149825,fox,2016-05-11 00:35:00,elder green,0.0,0.0,4642.0,2563.0,False,1
+730184730331783168,fox,2016-05-10 23:56:00,twenty first century fox ceo james murdoch sells dollars 468038.55 fox,0.0,0.0,4558.0,2838.0,False,1
+730181525149470720,fox,2016-05-10 23:43:00,twenty first century fox inc fox ceo sells dollars 468038.55 stock,0.0,0.0,715.0,8.0,False,1
+730145365111013376,fox,2016-05-10 21:19:00,twenty first century fox inc fox rating reiterated pacific crest,0.0,0.0,929.0,0.0,False,1
+730145363835891714,fox,2016-05-10 21:19:00,goldman sachs reiterates buy rating twenty first century fox inc fox,0.0,0.0,929.0,0.0,False,1
+730145269958987776,fox,2016-05-10 21:19:00,topeka capital markets reiterates hold rating twenty first century fox inc fox,0.0,0.0,710.0,8.0,False,0
+730143873637421056,fox,2016-05-10 21:13:00,topeka capital markets reiterates hold rating twenty first century fox inc fox,0.0,0.0,1024.0,11.0,False,1
+730143872123346946,fox,2016-05-10 21:13:00,twenty first century fox inc fox rating reiterated telsey advisory group,0.0,0.0,1024.0,11.0,False,1
+730122067845230592,fox,2016-05-10 19:47:00,rt syy im ko cat lmt fox jci pagp int chscp aal become,0.0,2.0,6.0,6.0,True,1
+730121427219824640,fox,2016-05-10 19:44:00,rt syy im ko cat lmt fox jci pagp int chscp aal become,0.0,2.0,7.0,7.0,True,1
+730106509875675136,fox,2016-05-10 18:45:00,syy im ko cat lmt fox jci pagp int chscp aal become,0.0,0.0,291.0,828.0,False,1
+730105223281250305,fox,2016-05-10 18:40:00,syy im ko cat lmt fox jci pagp int chscp aal become,0.0,0.0,6.0,6.0,False,1
+730103945243312129,fox,2016-05-10 18:35:00,syy im ko cat lmt fox jci pagp int chscp aal become,0.0,0.0,7.0,7.0,False,1
+730102876790509569,fox,2016-05-10 18:31:00,syy im ko cat lmt fox jci pagp int chscp aal become,1.0,2.0,10834.0,11565.0,False,1
+730062573605769216,fox,2016-05-10 15:50:00,possible acquireres twtr sale dollars 0 billion via fb msft googl dis fox,0.0,0.0,373.0,266.0,False,0
+730056120862162944,fox,2016-05-10 15:25:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,286.0,829.0,False,1
+730054904623058945,fox,2016-05-10 15:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,5.0,6.0,False,1
+730053672604930048,fox,2016-05-10 15:15:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,6.0,7.0,False,1
+730052403857371136,fox,2016-05-10 15:10:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,10751.0,11562.0,False,1
+730037209055825920,fox,2016-05-10 14:10:00,twenty first century fox inc fox stake boosted commonwealth bank australia,0.0,0.0,930.0,0.0,False,1
+730035725442256896,fox,2016-05-10 14:04:00,donald yacktman buys st century fox berkshire intel read,0.0,0.0,10.0,2.0,False,1
+729747836753973250,fox,2016-05-09 19:00:00,fox sees fewer ads tv viewers gain control read,0.0,0.0,10.0,2.0,False,0
+729704052154499072,fox,2016-05-09 16:06:00,national geographic readies first instagram video series 49 read,0.0,0.0,10.0,2.0,False,1
+729698566487343104,fox,2016-05-09 15:44:00,interesting commentary ott fox conference call,0.0,0.0,734.0,517.0,False,0
+729686506361753600,fox,2016-05-09 14:56:00,twenty first century fox inc fox given hold rating topeka capital markets,0.0,0.0,932.0,0.0,False,1
+729685543769018368,fox,2016-05-09 14:52:00,twenty first century fox’s fox overweight rating reaffirmed pacific crest,0.0,0.0,395.0,10.0,False,1
+729685542791745536,fox,2016-05-09 14:52:00,twenty first century fox’s fox outperform rating reaffirmed telsey advisory group,0.0,0.0,395.0,10.0,False,0
+729418381884018689,fox,2016-05-08 21:11:00,rt captain america civil war soars dollars 82 million opening dis rgc amc cmcsa cmcsk twx fox foxa sne lgf v,0.0,4.0,2358.0,4739.0,True,1
+729418086319837184,fox,2016-05-08 21:09:00,rt captain america civil war soars dollars 82 million opening dis rgc amc cmcsa cmcsk twx fox foxa sne lgf v,0.0,4.0,11562.0,8612.0,True,1
+729417969969864704,fox,2016-05-08 21:09:00,rt captain america civil war soars dollars 82 million opening dis rgc amc cmcsa cmcsk twx fox foxa sne lgf v,0.0,4.0,12661.0,7374.0,True,1
+729417612250189824,fox,2016-05-08 21:08:00,rt captain america civil war soars dollars 82 million opening dis rgc amc cmcsa cmcsk twx fox foxa sne lgf v,0.0,4.0,7895.0,8457.0,True,0
+729417605467922432,fox,2016-05-08 21:08:00,captain america civil war soars dollars 82 million opening dis rgc amc cmcsa cmcsk twx fox foxa sne lgf v,0.0,4.0,12685.0,130.0,False,0
+728739227169591296,fox,2016-05-07 00:12:00,twenty first century fox inc fox lifted hold zacks investment research,0.0,0.0,720.0,8.0,False,1
+728669326493011973,fox,2016-05-06 19:34:00,rt box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,0.0,6.0,6.0,20.0,True,1
+728644850237603841,fox,2016-05-06 17:57:00,disney hulu opportunity risk dis cmcsa fox foxa,0.0,0.0,2664.0,2978.0,False,1
+728621250650750976,fox,2016-05-06 16:23:00,dis impressive move above 200 day attempting end bear phase cbs fox,0.0,0.0,393.0,369.0,False,1
+728619504050311170,fox,2016-05-06 16:16:00,rt box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,0.0,5.0,184.0,230.0,True,0
+728609750909370368,fox,2016-05-06 15:37:00,rt box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,0.0,5.0,13300.0,9616.0,True,0
+728608989345419264,fox,2016-05-06 15:34:00,rt box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,0.0,5.0,2123.0,4781.0,True,1
+728608892570226688,fox,2016-05-06 15:34:00,rt box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,0.0,5.0,13109.0,5679.0,True,0
+728608808692494336,fox,2016-05-06 15:34:00,rt box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,0.0,5.0,7382.0,8002.0,True,1
+728608643675922434,fox,2016-05-06 15:33:00,box office battle captain america civil war set steamroll box office dis imax sne viab foxa fox,1.0,6.0,12680.0,130.0,False,1
+728604059226099713,fox,2016-05-06 15:15:00,twenty first century fox inc reiterated rating stifel nicolaus ranked 44 buy 32 point fox,0.0,0.0,543.0,45.0,False,1
+728603374325739520,fox,2016-05-06 15:12:00,twenty first century fox’s fox “buy” rating reaffirmed stifel nicolaus,0.0,0.0,719.0,8.0,False,1
+728592013843648517,fox,2016-05-06 14:27:00,rt seekingalpha disney hulu worth close attention,0.0,0.0,8606.0,5.0,False,0
+728576156593737728,fox,2016-05-06 13:24:00,rt syy im ko lmt fox jci pagp int chscp aal become,0.0,1.0,299.0,166.0,True,1
+728568623212670976,fox,2016-05-06 12:54:00,twenty first century fox’s fox overweight rating reiterated pacific crest,0.0,0.0,1012.0,11.0,False,1
+728564911987658753,fox,2016-05-06 12:39:00,twenty first century fox inc fox stock rating reaffirmed goldman sachs,0.0,0.0,1012.0,11.0,False,1
+728562500275314688,fox,2016-05-06 12:30:00,twenty first century fox inc reiterated rating topeka capital ranked 42 hold 28 point fox,0.0,0.0,543.0,45.0,False,0
+728562492352307202,fox,2016-05-06 12:30:00,twenty first century fox inc reiterated rating goldman sachs ranked 31 buy 35 point fox,0.0,0.0,543.0,45.0,False,0
+728561334720278529,fox,2016-05-06 12:25:00,twenty first century foxs hold rating reiterated topeka capital markets dollars 8.00 point,0.0,0.0,4152.0,0.0,False,0
+728561333650788352,fox,2016-05-06 12:25:00,twenty first century foxs outperform rating reiterated telsey advisory group dollars 0.00 point,0.0,0.0,4152.0,0.0,False,1
+728561332275060736,fox,2016-05-06 12:25:00,twenty first century foxs overweight rating reiterated pacific crest dollars 7.00 point,0.0,0.0,4152.0,0.0,False,0
+728561331054497792,fox,2016-05-06 12:25:00,twenty first century foxs buy rating reiterated goldman sachs dollars 5.00 point,0.0,0.0,4152.0,0.0,False,0
+728373125407232001,fox,2016-05-05 23:57:00,zacks investment research upgrades twenty first century fox inc fox hold,0.0,0.0,1138.0,40.0,False,0
+728362284347629568,fox,2016-05-05 23:14:00,fox earns modest overall ad gains u cable tv soars read,0.0,0.0,11.0,2.0,False,0
+728345644797022208,fox,2016-05-05 22:08:00,chip smith joins 21 century fox evp public affairs read,0.0,0.0,11.0,2.0,False,0
+728344471969091584,fox,2016-05-05 22:03:00,scan results bullish engulfing today ths epam post phh fox luk wyn klac lxft elgx,0.0,0.0,657.0,45.0,False,0
+728303425134407680,fox,2016-05-05 19:20:00,year ago today top rated stock p 500 twenty first century fox since down 9 pct fox,0.0,0.0,1064.0,347.0,False,0
+728288100359634944,fox,2016-05-05 18:19:00,rt headline making stocks day znga fox met wtw bdx,0.0,1.0,978.0,742.0,True,0
+728287995103584256,fox,2016-05-05 18:19:00,headline making stocks day znga fox met wtw bdx,0.0,1.0,13201.0,733.0,False,1
+728287838693953538,fox,2016-05-05 18:18:00,headline making stocks day znga fox met wtw bdx,0.0,0.0,293.0,13.0,False,0
+728277466767233024,fox,2016-05-05 17:37:00,hulu finally starting look like winner nflx amzn dis cmcsa fox twx cbs uvn,0.0,0.0,2658.0,2978.0,False,1
+728262617806999552,fox,2016-05-05 16:38:00,rt fox svu analysts observing stocks twenty first century fox inc nasdaq …,0.0,1.0,1165.0,774.0,True,1
+728258040550449152,fox,2016-05-05 16:20:00,21 century fox third quarter earnings line revenues top read,0.0,0.0,11.0,2.0,False,1
+728248565504466945,fox,2016-05-05 15:42:00,former gore aide chip smith gets fox c post read,0.0,0.0,11.0,2.0,False,1
+728248410176786432,fox,2016-05-05 15:42:00,chip smith former al gore aide named executive vp public affairs f read,0.0,0.0,11.0,2.0,False,0
+728246218351124480,fox,2016-05-05 15:33:00,volume alert fox 29.62 21 centry fox b cm fox hit high today 29.72 closing day 0 29.62 positive 0,0.0,0.0,742.0,448.0,False,1
+728244993945542656,fox,2016-05-05 15:28:00,`deadpool presidential race lift 21 century fox read,0.0,0.0,11.0,2.0,False,1
+728227442456821760,fox,2016-05-05 14:18:00,21 century fox taps glover park groups chip smith head public read,0.0,0.0,11.0,2.0,False,0
+728221446028300289,fox,2016-05-05 13:54:00,hulus slow growth not bearish looks,0.0,0.0,61.0,233.0,False,0
+728207771955507201,fox,2016-05-05 13:00:00,twenty first century fox inc fox baupost group llc ma’s 8 largest position,0.0,0.0,371.0,10.0,False,1
+728198765216038912,fox,2016-05-05 12:24:00,early movers mrk baba lb time bdx avp disca abc tsla wfm fit fox znga trip khc wtw cat yhoo,2.0,0.0,15657.0,383.0,False,0
+728183018460827649,fox,2016-05-05 11:22:00,twenty first century fox meets first quarter eps estimates beats revenue na read,0.0,0.0,11.0,2.0,False,1
+728172154743865345,fox,2016-05-05 10:39:00,inc twenty first century fox inc beat estimates fox fit,1.0,1.0,1544.0,515.0,False,1
+728159867840569345,fox,2016-05-05 09:50:00,cable business powers fox revenue increase read,0.0,0.0,11.0,2.0,False,1
+728149305572233217,fox,2016-05-05 09:08:00,murdoch streaming future entertainment consumption read,0.0,0.0,11.0,2.0,False,1
+728139676863766530,fox,2016-05-05 08:30:00,third quarter 16 affiliate advertising revenues prop 21 century fox revenue read,0.0,0.0,11.0,2.0,False,1
+728123346013937667,fox,2016-05-05 07:25:00,rt analyst sees tepid growth hbo cuts time warner rating twx foxa cbs fox cmcsa cmcsk dis full story,0.0,4.0,2270.0,4895.0,True,0
+728122492083048449,fox,2016-05-05 07:21:00,hulus slow growth not bearish looks fox,0.0,0.0,276.0,538.0,False,1
+728108579140472832,fox,2016-05-05 06:26:00,rt seekingalpha hulus slow growth not bearish looks,0.0,0.0,8610.0,5.0,False,1
+728099735626620928,fox,2016-05-05 05:51:00,rt analyst sees tepid growth hbo cuts time warner rating twx foxa cbs fox cmcsa cmcsk dis full story,0.0,3.0,14953.0,9251.0,True,0
+728081561300525057,fox,2016-05-05 04:39:00,inc twenty first century fox inc beat estimates fox fit,0.0,0.0,329.0,13.0,False,1
+728011499080396800,fox,2016-05-05 00:00:00,rt producers fox business settle lawsuit scuttled reality show fox foxa,0.0,1.0,9290.0,6018.0,True,0
+728011032866627584,fox,2016-05-04 23:58:00,cable deadpool help fox earnings meet forecasts read,0.0,0.0,11.0,2.0,False,1
+728010877480275970,fox,2016-05-04 23:58:00,twenty first century fox cable deadpool help fox earnings meet f read,0.0,0.0,11.0,2.0,False,0
+728010722198708224,fox,2016-05-04 23:57:00,twenty first century fox profit down meets street read,0.0,0.0,11.0,2.0,False,0
+728010680113078272,fox,2016-05-04 23:57:00,producers fox business settle lawsuit scuttled reality show fox foxa,0.0,1.0,29514.0,32410.0,False,0
+728010566892064768,fox,2016-05-04 23:56:00,twenty first century fox profit down meets street read,0.0,0.0,11.0,2.0,False,1
+728010500768825344,fox,2016-05-04 23:56:00,producers fox business settle lawsuit scuttled reality show,0.0,0.0,21366.0,30.0,False,1
+728010411631501312,fox,2016-05-04 23:56:00,cable deadpool help fox earnings meet forecasts read,0.0,0.0,11.0,2.0,False,1
+728008858916917248,fox,2016-05-04 23:50:00,brief twenty first century fox reports third quarter earnings dollars . fro read,0.0,0.0,11.0,2.0,False,1
+728002955199139841,fox,2016-05-04 23:26:00,21 century fox inc third quarter 2016 earnings earnings line beats read,0.0,0.0,11.0,2.0,False,1
+728000151919296514,fox,2016-05-04 23:15:00,pitches ads nflx goog googl amzn cmcsa dis fox foxa,0.0,0.0,2645.0,2971.0,False,0
+727994250873348096,fox,2016-05-04 22:52:00,deadpool helps 21 century fox studio deliver strong result read,0.0,0.0,11.0,2.0,False,1
+727988185192488961,fox,2016-05-04 22:28:00,twenty first century fox reports rise revenue read,0.0,0.0,11.0,2.0,False,1
+727979509379674118,fox,2016-05-04 21:53:00,inc twenty first century fox inc beat estimates fox fit,0.0,0.0,1540.0,515.0,False,0
+727973363419766784,fox,2016-05-04 21:29:00,twenty first century fox eps line beats revenue,0.0,0.0,305.0,1.0,False,0
+727973362178228226,fox,2016-05-04 21:29:00,twenty first century fox eps line beats revenue,0.0,0.0,1339.0,29.0,False,0
+727973360718651396,fox,2016-05-04 21:29:00,twenty first century fox eps line beats revenue,0.0,0.0,21364.0,30.0,False,0
+727973122419228672,fox,2016-05-04 21:28:00,cable business powers fox revenue increase read,0.0,0.0,11.0,2.0,False,0
+727971258759929856,fox,2016-05-04 21:20:00,twenty first century fox reports 5.7 percent rise revenue read,0.0,0.0,11.0,2.0,False,0
+727971103386140673,fox,2016-05-04 21:20:00,brief 21 century fox reports third quarter earnings per share dollars .44 cont read,0.0,0.0,11.0,2.0,False,0
+727970948071067648,fox,2016-05-04 21:19:00,twenty first century fox inc bottom line climbs 2 percent third quarter read,0.0,0.0,11.0,2.0,False,1
+727970792743395328,fox,2016-05-04 21:18:00,twenty first century fox reports 5.7 percent rise revenue read,0.0,0.0,11.0,2.0,False,1
+727970637369647105,fox,2016-05-04 21:18:00,twenty first century fox reports 5.7 percent rise revenue read,0.0,0.0,11.0,2.0,False,1
+727965316106604548,fox,2016-05-04 20:57:00,fox reported solid first quarter close eps 0.47 matching estimates 7.23 billion revenue,0.0,0.0,2755.0,38.0,False,1
+727964114279006208,fox,2016-05-04 20:52:00,twenty first century inc results operations financial con read,0.0,0.0,11.0,2.0,False,1
+727961629954957312,fox,2016-05-04 20:42:00,21 century fox beats expectations quarterly revenue earnings read,0.0,0.0,11.0,2.0,False,1
+727961008405282816,fox,2016-05-04 20:40:00,21 century fox fox posts third quarter profit read,0.0,0.0,11.0,2.0,False,1
+727959667792445440,fox,2016-05-04 20:34:00,fox gains hours tv gains pace 6 percent revenue boost fox foxa,0.0,0.0,2644.0,2971.0,False,1
+727959060125900800,fox,2016-05-04 20:32:00,trade ideas twenty first century fox fox todays post market leader stock fox,0.0,0.0,2244.0,1223.0,False,0
+727958694072213504,fox,2016-05-04 20:30:00,fox gains hours tv gains pace 6 percent revenue boost,0.0,0.0,305.0,1.0,False,1
+727958692730052608,fox,2016-05-04 20:30:00,fox gains hours tv gains pace 6 percent revenue boost,0.0,0.0,21365.0,30.0,False,1
+727956068136038402,fox,2016-05-04 20:20:00,fox new sec filing fox form 8 k no 0001193125 16 577551,0.0,0.0,139.0,5.0,False,0
+727943366214737920,fox,2016-05-04 19:29:00,hulu confirms plans offer cable like combo live demand tv dis cmcsa fox foxa,0.0,0.0,2643.0,2971.0,False,1
+727906562765950977,fox,2016-05-04 17:03:00,hulu confirms plans offer cable like combo live demand tv,0.0,0.0,3088.0,5002.0,False,1
+727882477432283138,fox,2016-05-04 15:28:00,hulu confirms plans offer cable like combo live demand tv,0.0,0.0,301.0,1.0,False,1
+727882476085862400,fox,2016-05-04 15:28:00,hulu confirms plans offer cable like combo live demand tv,0.0,0.0,3537.0,30.0,False,0
+727882473728704514,fox,2016-05-04 15:27:00,hulu confirms plans offer cable like combo live demand tv,0.0,0.0,21362.0,30.0,False,1
+727855159749959680,fox,2016-05-04 13:39:00,sftw investor long term stock recommendation fox twenty first century fox inc ss 30,0.0,0.0,1176.0,814.0,False,1
+727849777510137856,fox,2016-05-04 13:18:00,disney says old mouse cant learn new tricks,0.0,0.0,665.0,378.0,False,0
+727839353800658945,fox,2016-05-04 12:36:00,rt analyst sees tepid growth hbo cuts time warner rating twx foxa cbs fox cmcsa cmcsk dis full story,0.0,2.0,78.0,298.0,True,0
+727835285946437632,fox,2016-05-04 12:20:00,notable 2016.05.04 abev bud chh hum kate mro pcln twx zts fit fox gddy khc mck met mur tsla wfm wtw znga,0.0,1.0,19930.0,14595.0,False,1
+727824270676611072,fox,2016-05-04 11:36:00,wsj hulu developing cable style online tv service,0.0,0.0,239.0,427.0,False,0
+727811154819592193,fox,2016-05-04 10:44:00,twenty first century fox inc fox upgraded “hold” zacks investment research,0.0,0.0,711.0,8.0,False,1
+727805110701703168,fox,2016-05-04 10:20:00,rt another big day front likes tsla pcln khc abev twx fox cxo v,0.0,1.0,783.0,2.0,True,0
+727803777709789184,fox,2016-05-04 10:15:00,another big day front likes tsla pcln khc abev twx fox cxo v,0.0,1.0,216.0,93.0,False,0
+727797498165768192,fox,2016-05-04 09:50:00,rt notable companies reporting earnings today tsla pcln khc abev twx fox cxo vrx wfm,0.0,1.0,783.0,2.0,True,1
+727796612097957888,fox,2016-05-04 09:46:00,notable companies reporting earnings today tsla pcln khc abev twx fox cxo vrx wfm,0.0,1.0,2023.0,107.0,False,1
+727705497273552896,fox,2016-05-04 03:44:00,twenty first century fox inc fox stock rating upgraded zacks investment research,0.0,0.0,926.0,0.0,False,1
+727589501774729216,fox,2016-05-03 20:03:00,protest against blind support sold shares nws fox,0.0,0.0,7428.0,8169.0,False,1
+727568245054648320,fox,2016-05-03 18:39:00,fil ltd dollars 7637000 stake twenty first century fox inc fox,0.0,0.0,361.0,10.0,False,1
+727533267017064448,fox,2016-05-03 16:20:00,disney says old mouse cant learn new tricks,0.0,0.0,168586.0,1449.0,False,0
+727521888730148864,fox,2016-05-03 15:35:00,could political advertising successful movies drive foxs first quarter results,0.0,0.0,2420.0,230.0,False,0
+727494359403364352,fox,2016-05-03 13:45:00,disney says old mouse cant learn new tricks,0.0,0.0,662.0,377.0,False,1
+727379392519753729,fox,2016-05-03 06:08:00,final box office verdict twx imax dis fox,0.0,0.0,2634.0,2958.0,False,0
+727335350863978496,fox,2016-05-03 03:13:00,paradox ‘old’ media leading race ‘new’ cable tv,0.0,0.0,203.0,1127.0,False,1
+727332767583731716,fox,2016-05-03 03:03:00,says old dogs cant learn new tricks nflx fox cmcsa,0.0,0.0,2631.0,2958.0,False,1
+727314550995996672,fox,2016-05-03 01:51:00,disney says old mouse cant learn new tricks,0.0,0.0,662.0,377.0,False,1
+727283211794022402,fox,2016-05-02 23:46:00,disney says old mouse cant learn new tricks,1.0,0.0,662.0,377.0,False,1
+727278336754507778,fox,2016-05-02 23:27:00,bullish pullback,0.0,0.0,4621.0,2578.0,False,1
+727266020205977601,fox,2016-05-02 22:38:00,disney says old mouse cant learn new tricks,0.0,0.0,1051.0,1239.0,False,1
+727262439918690304,fox,2016-05-02 22:24:00,rt seekingalpha disney says old mouse cant learn new tricks,0.0,0.0,8611.0,5.0,False,0
+727261795803533313,fox,2016-05-02 22:21:00,disney says old mouse cant learn new tricks,0.0,0.0,934.0,29.0,False,1
+727257173043089410,fox,2016-05-02 22:03:00,fox disney want sell web tv bundle via hulu dollars 0 month,0.0,0.0,8212.0,499.0,False,0
+727257172715905024,fox,2016-05-02 22:03:00,fox disney want sell web tv bundle via hulu dollars 0 month,0.0,0.0,748.0,97.0,False,1
+727245623913668608,fox,2016-05-02 21:17:00,prologis largest company surpassing twenty first century fox pld,0.0,0.0,828.0,1189.0,False,1
+727157291959488516,fox,2016-05-02 15:26:00,hulu developing subscription service read,0.0,0.0,12.0,2.0,False,0
+727154253727338496,fox,2016-05-02 15:14:00,― analyst sees tepid growth hbo cuts time warner rating twx foxa cbs fox…,0.0,0.0,80542.0,81373.0,False,1
+727154076123799552,fox,2016-05-02 15:13:00,rt analyst sees tepid growth hbo cuts time warner rating twx foxa cbs fox cmcsa cmcsk dis full story,0.0,1.0,14345.0,11396.0,True,1
+727154052723707904,fox,2016-05-02 15:13:00,analyst sees tepid growth hbo cuts time warner rating twx foxa cbs fox cmcsa cmcsk dis full story,0.0,4.0,12652.0,130.0,False,1
+727134800620871682,fox,2016-05-02 13:57:00,rt wwe would make attractive acquisition investment target says btig wwe dwa cmcsa cmcsk fox foxa dis,0.0,2.0,16415.0,9239.0,True,0
+727134543241728000,fox,2016-05-02 13:55:00,rt wwe would make attractive acquisition investment target says btig wwe dwa cmcsa cmcsk fox foxa dis,0.0,2.0,12980.0,7657.0,True,1
+727133756457283585,fox,2016-05-02 13:52:00,wwe would make attractive acquisition investment target says btig wwe dwa cmcsa cmcsk fox foxa dis,3.0,2.0,12630.0,130.0,False,1
+727129311866687488,fox,2016-05-02 13:35:00,wsj hulu developing cable style online tv service,1.0,0.0,304.0,1392.0,False,0
+727103645548867584,fox,2016-05-02 11:53:00,rt fox fox disney dis want sell web tv bundle via hulu dollars 0 month,0.0,1.0,1826.0,711.0,True,1
+727097548712857601,fox,2016-05-02 11:28:00,fox fox disney dis want sell web tv bundle via hulu dollars 0 month,0.0,1.0,19887.0,14461.0,False,0
+727086793837793280,fox,2016-05-02 10:46:00,earnings could mark end rally u media stocks read,0.0,0.0,12.0,2.0,False,1
+727059063985557504,fox,2016-05-02 08:56:00,rt marketcurrents wsj hulu developing cable style online tv service,0.0,0.0,4246.0,4952.0,False,0
+727057434326376448,fox,2016-05-02 08:49:00,wsj hulu developing cable style online tv service,0.0,0.0,296.0,1.0,False,1
+727057433156161536,fox,2016-05-02 08:49:00,wsj hulu developing cable style online tv service,0.0,0.0,3530.0,30.0,False,0
+727057431860117504,fox,2016-05-02 08:49:00,wsj hulu developing cable style online tv service,0.0,0.0,21336.0,30.0,False,0
+726977071419809792,fox,2016-05-02 03:30:00,hulu developing cable style online tv service good dis fox bad aapl no tv service ever nflx,0.0,0.0,201.0,1125.0,False,1
+726902978943279108,fox,2016-05-01 22:35:00,rt jungle book tops box office ahead captain america release dis cmcsa cmcsk twx fox foxa sne via,0.0,4.0,6954.0,7546.0,True,0
+726883072973635584,fox,2016-05-01 21:16:00,rt jungle book tops box office ahead captain america release dis cmcsa cmcsk twx fox foxa sne via,0.0,3.0,2263.0,4958.0,True,1
+726881236778622976,fox,2016-05-01 21:09:00,rt jungle book tops box office ahead captain america release dis cmcsa cmcsk twx fox foxa sne via,0.0,3.0,378.0,4989.0,True,1
+726880592307052545,fox,2016-05-01 21:06:00,rt jungle book tops box office ahead captain america release dis cmcsa cmcsk twx fox foxa sne via,0.0,3.0,15655.0,8308.0,True,0
+726880565224316928,fox,2016-05-01 21:06:00,jungle book tops box office ahead captain america release dis cmcsa cmcsk twx fox foxa sne via,0.0,4.0,12632.0,130.0,False,1
+726722424797024256,fox,2016-05-01 10:38:00,están en manos de la fox spiderman lo recuperaron tras el fiasco de para mí esta es su mejorversion cine,0.0,0.0,48.0,81.0,False,0
+726192037691834368,fox,2016-04-29 23:30:00,1234 bullish,0.0,0.0,4604.0,2583.0,False,1
+726172815330660352,fox,2016-04-29 22:14:00,twenty first century third quarter earnings whats store read,0.0,0.0,12.0,2.0,False,0
+726117001391906816,fox,2016-04-29 18:32:00,cmcsa fox pairs trade coming nicely still room one,1.0,0.0,32.0,443.0,False,1
+726074023327748096,fox,2016-04-29 15:41:00,volume alert fox 29.84 21 centry fox b cm fox hit high today 30.32 closing day 0 29.84 0,0.0,0.0,744.0,448.0,False,0
+726073760135016449,fox,2016-04-29 15:40:00,theres golden cross fox nsc hca 50 moving average crossed up 200,0.0,0.0,331.0,512.0,False,1
+726071489183653888,fox,2016-04-29 15:31:00,box office battle jungle book expected top box office third week sne viab foxa fox dis lg,0.0,0.0,12614.0,130.0,False,0
+726059281057992705,fox,2016-04-29 14:43:00,news update vxx qlys regn foxa fox bib viab ctct tsl cers tvix bib f,0.0,0.0,6456.0,5096.0,False,1
+725839285639909376,fox,2016-04-29 00:09:00,jitters stock plunges ndx also aapl adbe akam amzn atvi fox twtr goog,0.0,0.0,1530.0,512.0,False,1
+725785125863186433,fox,2016-04-28 20:33:00,twenty first century fox’s fox “outperform” rating reiterated wedbush,0.0,0.0,1132.0,40.0,False,0
+725773195106738177,fox,2016-04-28 19:46:00,utah retirement systems acquires 100 shares twenty first century fox inc fox,0.0,0.0,917.0,0.0,False,0
+725769607605293056,fox,2016-04-28 19:32:00,twenty first century fox inc fox upgraded thestreet,0.0,0.0,710.0,8.0,False,0
+725748689617190913,fox,2016-04-28 18:09:00,jitters stock plunges ndx also aapl adbe akam amzn atvi fox twtr goog,0.0,0.0,319.0,13.0,False,1
+725645892234170370,fox,2016-04-28 11:20:00,jitters stock plunges ndx also aapl adbe akam amzn atvi fox twtr goog,0.0,0.0,1526.0,512.0,False,0
+725645795538558976,fox,2016-04-28 11:20:00,top fox lobbyist michael regan steps down read,0.0,0.0,13.0,2.0,False,1
+725553611787268096,fox,2016-04-28 05:13:00,ltn looks us entertainment giant’s quarterly earnings dis fox twx via cbs sne,0.0,0.0,1804.0,1772.0,False,0
+725475789467054080,fox,2016-04-28 00:04:00,michael regan stepping down top fox lobbyist read,0.0,0.0,13.0,2.0,False,0
+725461880429547520,fox,2016-04-27 23:09:00,twenty first century fox inc fox stake boosted us bancorp de,0.0,0.0,994.0,11.0,False,0
+725435405886050304,fox,2016-04-27 21:24:00,michael regan exiting 21 century fox read,0.0,0.0,13.0,2.0,False,0
+725402084674248704,fox,2016-04-27 19:11:00,twenty first century fox inc fox rating reiterated wedbush,0.0,0.0,6195.0,2295.0,False,0
+725401467654430721,fox,2016-04-27 19:09:00,twenty first century fox inc fox rating reiterated wedbush,0.0,0.0,996.0,11.0,False,0
+725391316285329408,fox,2016-04-27 18:29:00,twenty first century fox inc fox position boosted american international group inc,0.0,0.0,705.0,8.0,False,1
+725310283036659712,fox,2016-04-27 13:07:00,give fox moderate sell rating,0.0,0.0,521.0,2093.0,False,0
+725257961057193984,fox,2016-04-27 09:39:00,5 nasdaq 100 stocks momentum investors april 26 2016 amgn gild ulta fox qvca,0.0,0.0,318.0,13.0,False,1
+725183251048992768,fox,2016-04-27 04:42:00,cbs takes easy prime time ratings victory fox foxa twx cbs cmcsa dis,0.0,0.0,276.0,538.0,False,1
+725180222782369792,fox,2016-04-27 04:30:00,twenty first century fox inc upgrade thestreet ranked 15 buy fox,0.0,0.0,529.0,45.0,False,1
+725179018555875328,fox,2016-04-27 04:25:00,twenty first century fox upgraded thestreet buy,0.0,0.0,4544.0,2838.0,False,1
+725170706829430784,fox,2016-04-27 03:52:00,5 nasdaq 100 stocks momentum investors april 26 2016 amgn gild ulta fox qvca,0.0,0.0,1526.0,512.0,False,1
+725139504596668416,fox,2016-04-27 01:48:00,cbs takes easy prime time ratings victory fox foxa twx cbs cmcsa dis,0.0,0.0,22.0,146.0,False,1
+725120444114698240,fox,2016-04-27 00:32:00,cbs takes easy prime time ratings victory,0.0,0.0,21289.0,32.0,False,1
+725086190110687233,fox,2016-04-26 22:16:00,earnings could mark end rally u media stocks read,0.0,0.0,12.0,2.0,False,0
+725061679025889280,fox,2016-04-26 20:39:00,portfolio update aa lng fox ar oln foxa aer pypl lock run pxd vrtv bxe vrx,0.0,0.0,4679.0,2155.0,False,1
+725039151066808323,fox,2016-04-26 19:09:00,earnings could mark end rally us media stocks read,0.0,0.0,12.0,2.0,False,0
+725038995869196290,fox,2016-04-26 19:09:00,earnings could mark end rally us media stocks read,0.0,0.0,12.0,2.0,False,1
+725038840415576064,fox,2016-04-26 19:08:00,earnings could mark end rally u media stocks read,0.0,0.0,12.0,2.0,False,1
+725007045318066177,fox,2016-04-26 17:02:00,5 nasdaq 100 stocks momentum investors fox gild qvca amgn ulta,0.0,0.0,259.0,169.0,False,0
+724960332121300993,fox,2016-04-26 13:56:00,twenty first century fox hits 1 quarter high,0.0,0.0,19.0,1.0,False,0
+724955307978280961,fox,2016-04-26 13:36:00,lateef investment management l p dollars 669000 stake twenty firs read,0.0,0.0,12.0,2.0,False,1
+724881784467542018,fox,2016-04-26 08:44:00,twenty first century fox inc fox receives outperform rating wedbush,0.0,0.0,702.0,8.0,False,1
+724797213076000769,fox,2016-04-26 03:08:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,13.0,195.0,564.0,True,1
+724742221719810048,fox,2016-04-25 23:29:00,group malone fans kill strza disca amcx viab twx poorly fox sni excluded,0.0,0.0,617.0,397.0,False,0
+724724972183146496,fox,2016-04-25 22:21:00,rt dmg entertainment steps up look paramount pictures bid,0.0,1.0,282.0,418.0,True,1
+724723040496422913,fox,2016-04-25 22:13:00,dmg entertainment steps up look paramount pictures bid,0.0,0.0,289.0,1.0,False,1
+724723039343009792,fox,2016-04-25 22:13:00,dmg entertainment steps up look paramount pictures bid,0.0,1.0,1809.0,31.0,False,1
+724723038088888320,fox,2016-04-25 22:13:00,dmg entertainment steps up look paramount pictures bid,0.0,0.0,2722.0,32.0,False,1
+724723036792877056,fox,2016-04-25 22:13:00,dmg entertainment steps up look paramount pictures bid,0.0,0.0,21277.0,32.0,False,1
+724715253288865797,fox,2016-04-25 21:42:00,twenty first century foxs outperform rating reiterated wedbush dollars 4.00 point,0.0,0.0,4104.0,0.0,False,0
+724714985407045633,fox,2016-04-25 21:41:00,twenty first century fox inc fox receives outperform rating wedbush,0.0,0.0,341.0,10.0,False,1
+724700269880156161,fox,2016-04-25 20:43:00,fox twenty first century fox inc nasdaq fox company earnings …,0.0,0.0,747.0,1.0,False,1
+724690704753135617,fox,2016-04-25 20:05:00,twx fox foxa netflix becoming another media company,0.0,0.0,747.0,1.0,False,0
+724635270017064961,fox,2016-04-25 16:24:00,fox 30.75 21 centry fox b cm fox added watch list right fox watching last price 30,0.0,0.0,900.0,441.0,False,0
+724630599764434952,fox,2016-04-25 16:06:00,recent research analysts’ ratings updates twenty first century fox fox,0.0,0.0,984.0,11.0,False,1
+724630040932171776,fox,2016-04-25 16:03:00,recent research analysts’ ratings updates twenty first century fox fox,0.0,0.0,6186.0,2295.0,False,0
+724595971724853248,fox,2016-04-25 13:48:00,twenty first century fox hits 1 quarter high,0.0,0.0,19.0,1.0,False,1
+724582594495561728,fox,2016-04-25 12:55:00,2016 cbs dis cmcsa fox twx sne via amzn nflx early buzz,0.0,0.0,147.0,384.0,False,1
+724513793146011648,fox,2016-04-25 08:22:00,fox lb keep eye price trends twenty first century fox inc …,0.0,0.0,745.0,1.0,False,0
+724354558202380289,fox,2016-04-24 21:49:00,rt jungle book adds dollars 1 million domestic total huntsman stumbles dis cmcsa cmcsk twx fox foxa sne lgf,0.0,1.0,392.0,528.0,True,1
+724354454540050432,fox,2016-04-24 21:48:00,jungle book adds dollars 1 million domestic total huntsman stumbles dis cmcsa cmcsk twx fox foxa sne lgf,1.0,1.0,12562.0,130.0,False,1
+724303460712243200,fox,2016-04-24 18:26:00,amc fox foxa 1 number explains batman v superman failing …,0.0,0.0,910.0,9.0,False,1
+724203363865387008,fox,2016-04-24 11:48:00,twenty first century fox inc fox stake increased bank montreal,0.0,0.0,703.0,8.0,False,1
+723944373390553088,fox,2016-04-23 18:39:00,cbs dis cmcsa fox twx sne via amzn nflx 2016 early buzz,0.0,0.0,149.0,384.0,False,1
+723870107336871936,fox,2016-04-23 13:44:00,fox cp yesterday services movers twenty first century fox inc …,0.0,0.0,737.0,1.0,False,1
+723773218423771136,fox,2016-04-23 07:19:00,fox twenty first century fox inc nyse fox receives dollars 2.47 average …,0.0,0.0,737.0,5.0,False,0
+723597529556754432,fox,2016-04-22 19:41:00,21 century fox 21 calls f businesses celebrate earth day photo con read,0.0,0.0,12.0,2.0,False,1
+723594024490283008,fox,2016-04-22 19:27:00,fox 30 calls buying activity expiring 20 may volume 259 intermarketsweep,0.0,0.0,1167.0,27.0,False,0
+723583706691080192,fox,2016-04-22 18:46:00,twenty first century fox inc shares bought kbc group nv read,0.0,0.0,12.0,2.0,False,1
+723542171165425664,fox,2016-04-22 16:01:00,box office battle jungle book expected top box office second week dis sne viab foxa fox lg,0.0,0.0,12550.0,130.0,False,0
+723478363248021505,fox,2016-04-22 11:47:00,fox foxa stocks run,0.0,0.0,262.0,862.0,False,1
+723363375284015104,fox,2016-04-22 04:10:00,rt tomorrow start live six sd hd max sd hd geo super channel 9 3 sports sky sports…,0.0,1.0,0.0,11.0,True,1
+723333202530672640,fox,2016-04-22 02:10:00,rt bottom fishing week ended april 22 intc also amd ddd dis f pot aapl fox fcau,0.0,1.0,747.0,85.0,True,1
+723332768869023744,fox,2016-04-22 02:09:00,bottom fishing week ended april 22 intc also amd ddd dis f pot aapl fox fcau,0.0,1.0,1517.0,512.0,False,1
+723242465248067585,fox,2016-04-21 20:10:00,rt bottom fishing week ended april 22 intc also amd ddd dis f pot aapl fox fcau,0.0,1.0,748.0,85.0,True,0
+723242165770571776,fox,2016-04-21 20:09:00,bottom fishing week ended april 22 intc also amd ddd dis f pot aapl fox fcau,0.0,1.0,316.0,13.0,False,0
+723179271133470721,fox,2016-04-21 15:59:00,twenty first century fox’s fox “outperform” rating reiterated telsey advisory group,0.0,0.0,980.0,11.0,False,1
+723178147303317504,fox,2016-04-21 15:54:00,twenty first century fox’s fox “outperform” rating reiterated telsey advisory group,0.0,0.0,6162.0,2295.0,False,0
+723167442533380097,fox,2016-04-21 15:12:00,twenty first century fox inc stake raised connor clark lunn read,0.0,0.0,12.0,2.0,False,1
+723145929679888384,fox,2016-04-21 13:46:00,bottom fishing week ended april 22 intc also amd ddd dis f pot aapl fox fcau,0.0,0.0,1516.0,512.0,False,1
+723116139006562304,fox,2016-04-21 11:48:00,chs fox notable services stocks activities chico’s fas inc nyse chs …,0.0,0.0,758.0,6.0,False,0
+723107435116793860,fox,2016-04-21 11:13:00,services stocks news recap viab fox,0.0,0.0,262.0,862.0,False,0
+723069898658697216,fox,2016-04-21 08:44:00,twenty first century fox inc short interest down 20.7 percent march read,0.0,0.0,12.0,2.0,False,1
+723015918654218240,fox,2016-04-21 05:10:00,zacks investment research downgrades twenty first century fox inc fox sell,0.0,0.0,884.0,0.0,False,1
+722903274332954625,fox,2016-04-20 21:42:00,advantus capital management inc buys 1012 shares twenty first cen read,0.0,0.0,11.0,2.0,False,1
+722879206774800384,fox,2016-04-20 20:06:00,twenty first century fox inc given consensus recommendation buy read,0.0,0.0,11.0,2.0,False,1
+722867748808863744,fox,2016-04-20 19:21:00,fox twenty first century fox inc nyse fox given consensus …,0.0,0.0,726.0,1.0,False,1
+722867553052291073,fox,2016-04-20 19:20:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,1.0,10292.0,10973.0,False,0
+722831216295026690,fox,2016-04-20 16:56:00,twenty first century fox inc cut sell zacks investment research read,0.0,0.0,11.0,2.0,False,0
+722810085269966848,fox,2016-04-20 15:32:00,twenty first century fox inc fox cut sell zacks investment research,0.0,0.0,325.0,10.0,False,0
+722795033959616517,fox,2016-04-20 14:32:00,twenty first century foxs buy rating reaffirmed pivotal resea read,0.0,0.0,11.0,2.0,False,0
+722765750864388096,fox,2016-04-20 12:35:00,want automatic email alerts adhd qada ndls lbtyk fox subscribe marketbeat daily,0.0,0.0,4084.0,0.0,False,1
+722688181867528193,fox,2016-04-20 07:27:00,post tourney fox news reclaims cable ratings lead fox foxa via viab twx sni dis amcx,0.0,0.0,275.0,537.0,False,1
+722688084236726272,fox,2016-04-20 07:27:00,macquarie group ltd sells 129630 shares twenty first century fox inc fox,0.0,0.0,695.0,8.0,False,1
+722599933396787202,fox,2016-04-20 01:37:00,netflix leads pack demand subscription nflx amzn dis cmcsa cmcsk fox,0.0,0.0,176.0,94.0,False,0
+722579430359580672,fox,2016-04-20 00:15:00,rt marketcurrents post tourney fox news reclaims cable ratings lead,0.0,0.0,4245.0,4966.0,False,0
+722573798227062785,fox,2016-04-19 23:53:00,post tourney fox news reclaims cable ratings lead,0.0,0.0,278.0,1.0,False,1
+722573796733902848,fox,2016-04-19 23:53:00,post tourney fox news reclaims cable ratings lead,0.0,0.0,2090.0,31.0,False,1
+722573795098103808,fox,2016-04-19 23:53:00,post tourney fox news reclaims cable ratings lead,0.0,0.0,21175.0,32.0,False,1
+722557659896012801,fox,2016-04-19 22:49:00,spell broken netflix like traditional tv network nflx cbs fox,1.0,0.0,584.0,856.0,False,0
+722537537445720065,fox,2016-04-19 21:29:00,rt seekingalpha netflix valuation house cards,0.0,0.0,8575.0,4.0,False,1
+722454500020248578,fox,2016-04-19 15:59:00,volume alert fox 30.38 21 centry fox b cm fox hit high today 30.47 closing day 0 30.38 positive 0,0.0,0.0,723.0,448.0,False,0
+722453391490723845,fox,2016-04-19 15:54:00,dirt cheap twenty first century fox screaming buy read,0.0,0.0,10.0,2.0,False,1
+722450477540098048,fox,2016-04-19 15:43:00,rt hulu owned fox 36 percent cmcsa 32 percent dis 32 percent,0.0,1.0,4228.0,474.0,True,1
+722449803292971008,fox,2016-04-19 15:40:00,hulu owned fox 36 percent cmcsa 32 percent dis 32 percent,3.0,1.0,711.0,83.0,False,1
+722425624544092160,fox,2016-04-19 14:04:00,fox bp worth watching stocks twenty first century fox inc nasdaq …,0.0,0.0,720.0,1.0,False,1
+722414773204303873,fox,2016-04-19 13:21:00,fox top trading stocks twenty first century fox inc nasdaq fox …,0.0,0.0,625.0,0.0,False,0
+722393634893668356,fox,2016-04-19 11:57:00,fox two stocks observe twenty first century fox inc nasdaq …,0.0,0.0,578.0,0.0,False,0
+722393613015973888,fox,2016-04-19 11:57:00,keltner,0.0,0.0,4550.0,2612.0,False,0
+722392989000015872,fox,2016-04-19 11:54:00,twenty first century fox inc price target raised dollars 5.00 tel read,0.0,0.0,10.0,2.0,False,1
+722362238950989824,fox,2016-04-19 09:52:00,twenty first century fox inc receives outperform rating telsey read,0.0,0.0,10.0,2.0,False,1
+722318453504217088,fox,2016-04-19 06:58:00,twenty first century fox inc lowered buy vetr inc read,0.0,0.0,10.0,2.0,False,0
+722268524002074624,fox,2016-04-19 03:40:00,fox news people believe trump make america greatest,0.0,0.0,31.0,50.0,False,1
+722213545899868160,fox,2016-04-19 00:01:00,keltner,0.0,0.0,4549.0,2613.0,False,1
+722212479527481345,fox,2016-04-18 23:57:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,11.0,446.0,277.0,True,0
+722212135514673153,fox,2016-04-18 23:56:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,11.0,119.0,238.0,True,0
+722201744764243970,fox,2016-04-18 23:14:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,9.0,212.0,598.0,True,1
+722200984873611264,fox,2016-04-18 23:11:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,9.0,829.0,1330.0,True,0
+722200966628577281,fox,2016-04-18 23:11:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,9.0,1896.0,491.0,True,1
+722200881534513152,fox,2016-04-18 23:11:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,9.0,26793.0,4242.0,True,0
+722183876768956416,fox,2016-04-18 22:03:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,4.0,65.0,230.0,True,1
+722182569366790144,fox,2016-04-18 21:58:00,netflix massive mindshare lead among teens nflx amzn outr fox foxa dis cmcsa,0.0,0.0,371.0,580.0,False,1
+722182568167239680,fox,2016-04-18 21:58:00,,0.0,0.0,371.0,580.0,False,1
+722179904356368384,fox,2016-04-18 21:48:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,4.0,359.0,1809.0,True,1
+722171684195823618,fox,2016-04-18 21:15:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,2.0,2668.0,300.0,True,0
+722171585734565888,fox,2016-04-18 21:14:00,rt sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis …,0.0,2.0,1022.0,1185.0,True,0
+722171357862055937,fox,2016-04-18 21:14:00,sales growth yoy percent fox negative 9 percent twx negative 6 percent viab negative 6 percent nwsa negative 4 percent disca negative 2 percent omc negative 1 percent cvc 0 percent cbs positive 6 percent cmcsa positive 8 percent dis positive 14 percent nflx positive 23 percent,13.0,13.0,19813.0,80.0,False,1
+722168685339754496,fox,2016-04-18 21:03:00,fox ruling stocks today’s market twenty first century fox inc …,0.0,0.0,717.0,1.0,False,1
+722162506794295297,fox,2016-04-18 20:38:00,netflix massive mindshare lead among teens,0.0,0.0,524.0,900.0,False,1
+722129318986571776,fox,2016-04-18 18:27:00,fox twenty first century fox inc given outperform rating telsey advisory group,0.0,0.0,6145.0,2295.0,False,1
+722125445441957893,fox,2016-04-18 18:11:00,twenty first century fox inc fox stock rating reaffirmed telsey advisory group,0.0,0.0,689.0,8.0,False,1
+722121080127758336,fox,2016-04-18 17:54:00,twenty first century foxs outperform rating reiterated telsey advisory group dollars 5.00 point,0.0,0.0,4073.0,0.0,False,1
+722120092364972033,fox,2016-04-18 17:50:00,twenty first century foxs outperform rating reiterated telsey advisory group dollars 5.00 point,0.0,0.0,4539.0,2838.0,False,1
+722119144347336706,fox,2016-04-18 17:46:00,analysts predict disney films beyond jungle book keep topping expectations dis twx lgf cbs foxa fox,0.0,0.0,12526.0,129.0,False,0
+722109307748126721,fox,2016-04-18 17:07:00,twenty first century fox inc stock rating reaffirmed needham read,0.0,0.0,10.0,2.0,False,0
+722109152529489922,fox,2016-04-18 17:06:00,twenty first century fox inc stock rating reaffirmed credit su read,0.0,0.0,10.0,2.0,False,0
+722108647212457984,fox,2016-04-18 17:04:00,netflix massive mindshare lead among teens nflx amzn outr fox foxa dis cmcsa,0.0,0.0,2268.0,3324.0,False,1
+722092063295078400,fox,2016-04-18 15:58:00,u soccer graft probe considers role banks sponsors read,0.0,0.0,10.0,2.0,False,1
+722091907875123201,fox,2016-04-18 15:58:00,twenty first century fox inc stake held kemper corp master ret read,0.0,0.0,10.0,2.0,False,1
+722082593269772289,fox,2016-04-18 15:21:00,volume alert fox 30.09 21 centry fox b cm fox hit high today 30.24 closing day 0 30.09 positive 0,0.0,0.0,723.0,448.0,False,1
+722080296615567360,fox,2016-04-18 15:12:00,earnings watch netflix expects add 6.1 million streaming subscribers first quarter nflx amzn cmcsa dis cmcsk fox f,1.0,0.0,12526.0,129.0,False,1
+722039491490291712,fox,2016-04-18 12:30:00,netflix massive mindshare lead among teens,0.0,0.0,1115.0,502.0,False,0
+722038558295531520,fox,2016-04-18 12:26:00,netflix massive mindshare lead among teens nflx amzn outr fox foxa dis cmcsa,0.0,0.0,2262.0,3310.0,False,0
+722031288446775297,fox,2016-04-18 11:57:00,schwab charles investment management inc purchases 788855 shares twenty first century fox inc fox,0.0,0.0,875.0,0.0,False,0
+722027779953262592,fox,2016-04-18 11:43:00,netflix massive mindshare lead among teens,0.0,0.0,272.0,1.0,False,1
+722027776920805377,fox,2016-04-18 11:43:00,netflix massive mindshare lead among teens,0.0,0.0,3459.0,32.0,False,1
+722027774920163328,fox,2016-04-18 11:43:00,netflix massive mindshare lead among teens,0.0,0.0,21152.0,32.0,False,1
+722014407178502144,fox,2016-04-18 10:50:00,,0.0,0.0,2315.0,3006.0,False,1
+721943396546453504,fox,2016-04-18 06:08:00,twenty first century fox inc fox downgraded sell zacks investment research,0.0,0.0,973.0,11.0,False,1
+721942917280047104,fox,2016-04-18 06:06:00,twenty first century fox inc fox downgraded sell zacks investment research,0.0,0.0,6136.0,2295.0,False,1
+721935118244286464,fox,2016-04-18 05:35:00,,0.0,0.0,530.0,904.0,False,1
+721905031436369920,fox,2016-04-18 03:35:00,,0.0,0.0,652.0,967.0,False,1
+721901375190343680,fox,2016-04-18 03:21:00,com targets stand alone option amzn nflx dis cmcsa fox foxa,0.0,0.0,570.0,855.0,False,1
+721898698637049856,fox,2016-04-18 03:10:00,rt jungle book stampedes past expectations dollars 04 million open dis twx cmcsa cmcsk lgf fox foxa sne via via,0.0,4.0,12573.0,6740.0,True,1
+721888869147414528,fox,2016-04-18 02:31:00,rt jungle book stampedes past expectations dollars 04 million open dis twx cmcsa cmcsk lgf fox foxa sne via via,0.0,4.0,8832.0,8481.0,True,1
+721886274475454464,fox,2016-04-18 02:21:00,,0.0,0.0,145.0,220.0,False,0
+721885958707290112,fox,2016-04-18 02:19:00,,0.0,0.0,1568.0,478.0,False,1
+721885698236788737,fox,2016-04-18 02:18:00,,0.0,0.0,536.0,1075.0,False,0
+721863884064342017,fox,2016-04-18 00:52:00,fox top gainers today twenty first century fox inc nasdaq fox,0.0,0.0,625.0,0.0,False,1
+721859112548442112,fox,2016-04-18 00:33:00,rt jungle book stampedes past expectations dollars 04 million open dis twx cmcsa cmcsk lgf fox foxa sne via via,0.0,2.0,2757.0,4008.0,True,0
+721829387147034624,fox,2016-04-17 22:35:00,rt jungle book stampedes past expectations dollars 04 million open dis twx cmcsa cmcsk lgf fox foxa sne via via,0.0,1.0,474.0,417.0,True,1
+721829236583968768,fox,2016-04-17 22:34:00,jungle book stampedes past expectations dollars 04 million open dis twx cmcsa cmcsk lgf fox foxa sne via via,1.0,4.0,12525.0,129.0,False,1
+721745364353736704,fox,2016-04-17 17:01:00,fox target price review twenty first century fox inc nasdaq fox,0.0,0.0,625.0,0.0,False,1
+721740104599900160,fox,2016-04-17 16:40:00,twenty first century fox inc shares sold wells fargo company read,0.0,0.0,10.0,2.0,False,0
+721442106296950785,fox,2016-04-16 20:56:00,fox twenty first century fox inc nasdaq fox share rating review,0.0,0.0,623.0,0.0,False,0
+721414961529036800,fox,2016-04-16 19:08:00,twenty first century fox inc fox sees strong trading volume,0.0,0.0,970.0,11.0,False,0
+721414431650000896,fox,2016-04-16 19:06:00,twenty first century fox inc fox sees strong trading volume,0.0,0.0,6134.0,2295.0,False,1
+721303384309903360,fox,2016-04-16 11:45:00,rt box office battle jungle book roaring theaters sne viab foxa fox dis lgf via cmcsa twx c,0.0,2.0,8910.0,6475.0,True,0
+721299723177426944,fox,2016-04-16 11:30:00,brokers set expectations twenty first century fox incs first quarter 2016 e read,0.0,0.0,9.0,2.0,False,0
+721192464544096256,fox,2016-04-16 04:24:00,twenty first century fox inc fox sees strong trading volume,0.0,0.0,970.0,11.0,False,0
+721192001476104192,fox,2016-04-16 04:22:00,twenty first century fox inc fox sees strong trading volume,0.0,0.0,6133.0,2295.0,False,0
+721085742668058624,fox,2016-04-15 21:20:00,rt box office battle jungle book roaring theaters sne viab foxa fox dis lgf via cmcsa twx c,0.0,1.0,15213.0,12199.0,True,1
+721047071785152513,fox,2016-04-15 18:46:00,fox may even go dollars 4 want miss boat ratings season,0.0,0.0,1393.0,337.0,False,1
+721046761343725568,fox,2016-04-15 18:45:00,sell target getting closer patient fox dollars 1,0.0,0.0,1393.0,337.0,False,1
+721025801836060672,fox,2016-04-15 17:22:00,zacks investment research upgrades twenty first century fox inc read,0.0,0.0,9.0,2.0,False,0
+721022851357220865,fox,2016-04-15 17:10:00,twenty first century fox inc shares sold morningstar investmen read,0.0,0.0,9.0,2.0,False,1
+721021109743714305,fox,2016-04-15 17:03:00,― box office battle jungle book roaring theaters sne viab foxa fox…,0.0,0.0,78651.0,78263.0,False,1
+721019565237383168,fox,2016-04-15 16:57:00,box office battle jungle book roaring theaters sne viab foxa fox dis lgf via cmcsa twx c,0.0,2.0,12519.0,129.0,False,0
+720998670053810177,fox,2016-04-15 15:34:00,volume alert fox 29.83 21 centry fox b cm fox hit high today 29.95 closing day 9 29.83 positive 0,0.0,0.0,718.0,448.0,False,0
+720991643898290177,fox,2016-04-15 15:06:00,first quarter 2016 earnings forecast twenty first century fox inc issued read,0.0,0.0,9.0,2.0,False,0
+720896716057092096,fox,2016-04-15 08:49:00,twenty first century fox inc rating lowered sell zacks investme read,0.0,0.0,9.0,2.0,False,1
+720896560771440640,fox,2016-04-15 08:48:00,twenty first century fox inc rating lowered sell zacks investme read,0.0,0.0,9.0,2.0,False,0
+720890801933299712,fox,2016-04-15 08:25:00,get say fox speculatingstocks discovery engine,1.0,0.0,688.0,568.0,False,1
+720871369940963328,fox,2016-04-15 07:08:00,twenty first century fox inc fox stake reduced manufacturers life insurance company,0.0,0.0,968.0,11.0,False,1
+720870892666880000,fox,2016-04-15 07:06:00,twenty first century fox inc fox stake reduced manufacturers life insurance company,0.0,0.0,6130.0,2295.0,False,1
+720846188149284868,fox,2016-04-15 05:28:00,fox twenty first century fox inc fox rating lowered sell zacks …,0.0,0.0,714.0,1.0,False,1
+720845229289410560,fox,2016-04-15 05:24:00,twenty first century fox downgraded zacks investment research sell,0.0,0.0,4054.0,1.0,False,1
+720842738594242560,fox,2016-04-15 05:14:00,twenty first century fox downgraded zacks investment research sell,0.0,0.0,4541.0,2838.0,False,1
+720763814715613184,fox,2016-04-15 00:00:00,nr7 stocks,0.0,0.0,4526.0,2622.0,False,0
+720726366316941312,fox,2016-04-14 21:32:00,twenty first century fox inc post second quarter 2016 earnings dollars .44 pe read,0.0,0.0,9.0,2.0,False,1
+720725900640161792,fox,2016-04-14 21:30:00,twenty first century fox inc post first quarter 2016 earnings dollars .47 pe read,0.0,0.0,9.0,2.0,False,1
+720691273493925888,fox,2016-04-14 19:12:00,21 century fox nasdaq twenty first century fox starting f read,0.0,0.0,9.0,2.0,False,1
+720689720552869888,fox,2016-04-14 19:06:00,twenty first century fox inc point raised dollars 3.00 moffett natha read,0.0,0.0,9.0,2.0,False,0
+720678540652322820,fox,2016-04-14 18:22:00,twenty first century fox inc stake maintained levin capital st read,0.0,0.0,9.0,2.0,False,1
+720560310587899904,fox,2016-04-14 10:32:00,fox netflix inc nasdaq nflx twenty first century fox inc …,0.0,0.0,718.0,5.0,False,1
+720551502838898688,fox,2016-04-14 09:57:00,twenty first century fox inc fox downgraded zacks investment research,0.0,0.0,967.0,11.0,False,0
+720551086118027269,fox,2016-04-14 09:55:00,twenty first century fox inc fox downgraded zacks investment research,0.0,0.0,6125.0,2295.0,False,0
+720543269109673984,fox,2016-04-14 09:24:00,twenty first century fox inc sees significant decrease short read,0.0,0.0,9.0,2.0,False,1
+720405389750177792,fox,2016-04-14 00:16:00,fox recent investment analysts ratings updates twenty first century fox,0.0,0.0,6119.0,2295.0,False,1
+720405121922920448,fox,2016-04-14 00:15:00,recent investment analysts’ ratings updates twenty first century fox fox,0.0,0.0,869.0,0.0,False,1
+720389114822991872,fox,2016-04-13 23:12:00,reality show suit against fox news pushes ailes deposition,0.0,0.0,5791.0,5460.0,False,1
+720387043449118721,fox,2016-04-13 23:03:00,reality show suit against fox news pushes ailes deposition,0.0,0.0,261.0,1.0,False,1
+720387042006269954,fox,2016-04-13 23:03:00,reality show suit against fox news pushes ailes deposition,0.0,0.0,2039.0,31.0,False,1
+720387039993012225,fox,2016-04-13 23:03:00,reality show suit against fox news pushes ailes deposition,0.0,0.0,21099.0,32.0,False,1
+720382490569904132,fox,2016-04-13 22:45:00,stochastic overbought,0.0,0.0,4518.0,2621.0,False,0
+720351379626332160,fox,2016-04-13 20:42:00,twenty first century fox inc fox stake boosted wells fargo company mn,0.0,0.0,868.0,0.0,False,0
+720334824150474752,fox,2016-04-13 19:36:00,espn fox foxa fox sports 1 attempts makeover talk shows,0.0,0.0,617.0,0.0,False,0
+720328318210322432,fox,2016-04-13 19:10:00,twenty first century fox inc stock rating upgraded zacks inves read,0.0,0.0,9.0,2.0,False,1
+720317437313298433,fox,2016-04-13 18:27:00,jbem pick flks data release read,0.0,0.0,151.0,12.0,False,1
+720299432848138240,fox,2016-04-13 17:15:00,marshall wace llp dollars 9861000 stake twenty first century fox read,0.0,0.0,9.0,2.0,False,1
+720291823130947584,fox,2016-04-13 16:45:00,twenty first century fox inc fox cut sell zacks investment research,0.0,0.0,1126.0,40.0,False,0
+720267004150681600,fox,2016-04-13 15:06:00,marshall wace llp dollars 9861000 stake twenty first century fox inc fox,0.0,0.0,309.0,10.0,False,0
+720251248683798528,fox,2016-04-13 14:04:00,twentyfirstcenturyfox hits 1 quarter high,0.0,0.0,4.0,1.0,False,1
+720228873347186688,fox,2016-04-13 12:35:00,fox foxa dis dish sling tv launches new multi stream version fox channels,0.0,0.0,711.0,1.0,False,1
+720178407028432896,fox,2016-04-13 09:14:00,twenty first century fox inc fox receives new coverage analysts rbc capital,0.0,0.0,6113.0,2296.0,False,0
+719940301176102913,fox,2016-04-12 17:28:00,portfolio update aa lng fox ar oln foxa aer pypl lock run pxd vrtv bxe vrx,0.0,0.0,4683.0,2154.0,False,0
+719882317871898624,fox,2016-04-12 13:38:00,zacks investment research downgrades twenty first century fox inc fox sell,0.0,0.0,305.0,10.0,False,0
+719868460466089985,fox,2016-04-12 12:43:00,netflix next disney part,0.0,0.0,2812.0,1214.0,False,0
+719865620196683776,fox,2016-04-12 12:31:00,netflix next disney,0.0,0.0,2129.0,2439.0,False,1
+719859284964732928,fox,2016-04-12 12:06:00,netflix next disney,0.0,0.0,1301.0,1237.0,False,1
+719858936988483584,fox,2016-04-12 12:05:00,fox alk stock’s changes focus costco wholesale corporation nasdaq …,0.0,0.0,717.0,5.0,False,1
+719642006604103681,fox,2016-04-11 21:43:00,ranks 80 percent alert gains today click,0.0,0.0,7095.0,0.0,False,0
+719627823716020224,fox,2016-04-11 20:46:00,netflix next disney,0.0,0.0,770.0,589.0,False,0
+719548063883198464,fox,2016-04-11 15:30:00,netflix next disney,0.0,0.0,12248.0,31.0,False,1
+719545255901667328,fox,2016-04-11 15:18:00,rt rt seekingalpha netflix next disney,0.0,1.0,8714.0,5858.0,True,0
+719545232803696640,fox,2016-04-11 15:18:00,rt seekingalpha netflix next disney,0.0,1.0,8549.0,3.0,False,0
+719541607981166592,fox,2016-04-11 15:04:00,netflix next disney,0.0,0.0,258.0,1.0,False,0
+719541606479597568,fox,2016-04-11 15:04:00,netflix next disney,0.0,0.0,2681.0,31.0,False,1
+719428286745419777,fox,2016-04-11 07:34:00,rt boss narrowly edges batman v superman box office cmcsa cmcsk twx dis fox foxa lgf sne,0.0,4.0,1877.0,4229.0,True,1
+719383848685965312,fox,2016-04-11 04:37:00,rt boss narrowly edges batman v superman box office cmcsa cmcsk twx dis fox foxa lgf sne,0.0,3.0,8972.0,7536.0,True,1
+719374585712418817,fox,2016-04-11 04:00:00,rt boss narrowly edges batman v superman box office cmcsa cmcsk twx dis fox foxa lgf sne,0.0,3.0,15316.0,7556.0,True,1
+719310988139474944,fox,2016-04-10 23:47:00,rt boss narrowly edges batman v superman box office cmcsa cmcsk twx dis fox foxa lgf sne,0.0,1.0,471.0,411.0,True,1
+719310519014850560,fox,2016-04-10 23:46:00,boss narrowly edges batman v superman box office cmcsa cmcsk twx dis fox foxa lgf sne,0.0,4.0,12443.0,129.0,False,1
+719299919375257600,fox,2016-04-10 23:03:00,box office melissa mccarthy bests batman superman dis cmcsa fox sne twx,0.0,0.0,1780.0,1736.0,False,0
+718974228654006272,fox,2016-04-10 01:29:00,rt box office battle boss challenge batman v superman sne viab foxa fox dis lgf via cmcsa,0.0,2.0,12695.0,7051.0,True,1
+718945434027352064,fox,2016-04-09 23:35:00,fox top stocks day twenty first century fox inc nasdaq fox,0.0,0.0,622.0,0.0,False,1
+718906648731992064,fox,2016-04-09 21:01:00,fox twenty first century fox inc nasdaq fox stock rating focus,0.0,0.0,620.0,0.0,False,0
+718878114890194944,fox,2016-04-09 19:07:00,rt box office battle boss challenge batman v superman sne viab foxa fox dis lgf via cmcsa,0.0,1.0,15920.0,6558.0,True,0
+718827715680448512,fox,2016-04-09 15:47:00,foxs idol draws 13.3 million tv viewers series send,0.0,0.0,746.0,2038.0,False,1
+718797935341920258,fox,2016-04-09 13:49:00,fox svu analysts observing stocks twenty first century fox inc nasdaq …,0.0,1.0,764.0,1.0,False,1
+718702933521666048,fox,2016-04-09 07:31:00,rt tomorrow start live six sd hd max sd hd geo super channel 9 3 sports sky sports fox sp…,0.0,1.0,94.0,10.0,True,1
+718688941642096640,fox,2016-04-09 06:36:00,twenty first century fox inc downgraded zacks investment research read,0.0,0.0,10.0,2.0,False,1
+718625802846400513,fox,2016-04-09 02:25:00,fox twenty first century fox inc fox downgraded zacks …,0.0,0.0,742.0,6.0,False,1
+718621934997647360,fox,2016-04-09 02:09:00,twenty first century fox downgraded zacks investment research sell,0.0,0.0,4032.0,1.0,False,1
+718619269299380230,fox,2016-04-09 01:59:00,twenty first century fox downgraded zacks investment research sell,0.0,0.0,4526.0,2838.0,False,1
+718556703566864385,fox,2016-04-08 21:50:00,foxs idol draws 13.3 million tv viewers series send,0.0,0.0,21008.0,32.0,False,1
+718519987590295553,fox,2016-04-08 19:24:00,fox below 200 day sma 28. lm 3 0 calls nearlo brkphi 1.7 percent accel tf 1000000 ch 0.1 percent pcgappositive 1.1 percent ret 1.0 percent,0.0,0.0,6771.0,271.0,False,0
+718499478228111360,fox,2016-04-08 18:03:00,fox foxa ‘american idol’ finale draws 13 million viewers,0.0,0.0,573.0,0.0,False,1
+718491321925705728,fox,2016-04-08 17:30:00,rbc bullish media stocks even amid cord cutting phenomenon,0.0,0.0,262.0,1.0,False,1
+718491319048351745,fox,2016-04-08 17:30:00,rbc bullish media stocks even amid cord cutting phenomenon,0.0,0.0,1614.0,31.0,False,1
+718491317597134849,fox,2016-04-08 17:30:00,rbc bullish media stocks even amid cord cutting phenomenon,0.0,0.0,21006.0,32.0,False,1
+718477432135618561,fox,2016-04-08 16:35:00,box office battle boss challenge batman v superman sne viab foxa fox dis lgf via cmcsa,1.0,2.0,12438.0,129.0,False,1
+718471587595427840,fox,2016-04-08 16:12:00,tomorrow start live six sd hd max sd hd geo super channel 9 3 sports sky sports fox sports sports 24,0.0,1.0,837.0,17.0,False,1
+718467752852373504,fox,2016-04-08 15:57:00,fox here’s twenty first century fox foxa stock advancing …,0.0,0.0,617.0,0.0,False,0
+718460737082028032,fox,2016-04-08 15:29:00,rt rbc capital sees bright future cbs fox time warner cbs twx foxa hmtv dis lgf sni via disca fox,0.0,1.0,198.0,194.0,True,1
+718459336087851008,fox,2016-04-08 15:23:00,rbc capital sees bright future cbs fox time warner cbs twx foxa hmtv dis lgf sni via disca fox,0.0,1.0,12419.0,129.0,False,0
+718448351230955521,fox,2016-04-08 14:40:00,tomorrow start live six sd hd max sd hd geo super channel 9 3 sports sky sports fox sports sports 24,1.0,1.0,6622.0,0.0,False,0
+718430745627205632,fox,2016-04-08 13:30:00,twenty first century fox inc position reduced first trust advisors read,0.0,0.0,10.0,2.0,False,1
+718414871193325568,fox,2016-04-08 12:27:00,rt early movers yhoo ulta cbs lnkd met ua vz googl time gps thc cbs twx fox viab lnkd icpt depo vrx …,0.0,4.0,379.0,616.0,True,1
+718414871168212992,fox,2016-04-08 12:27:00,rt early movers yhoo ulta cbs lnkd met ua vz googl time gps thc cbs twx fox viab lnkd icpt depo vrx …,0.0,4.0,2666.0,1662.0,True,1
+718411463132647425,fox,2016-04-08 12:13:00,rt early movers yhoo ulta cbs lnkd met ua vz googl time gps thc cbs twx fox viab lnkd icpt depo vrx …,0.0,4.0,116.0,566.0,True,0
+718410714436612101,fox,2016-04-08 12:10:00,twenty first century fox inc receives new coverage analysts r read,0.0,0.0,10.0,2.0,False,1
+718408631071457282,fox,2016-04-08 12:02:00,early movers yhoo ulta cbs lnkd met ua vz googl time gps thc cbs twx fox viab lnkd icpt depo vrx,3.0,4.0,15117.0,380.0,False,1
+718357297815240704,fox,2016-04-08 08:38:00,twenty first century fox inc covered analysts rbc capital read,0.0,0.0,10.0,2.0,False,1
+718212118072442880,fox,2016-04-07 23:01:00,cablevision installs hulu dedicated set top channel cmcsa dis fox foxa cvc,0.0,0.0,268.0,537.0,False,1
+718193305100619777,fox,2016-04-07 21:46:00,twenty first century fox initiated rbc capital outperform,0.0,0.0,4529.0,2838.0,False,1
+718192395045744641,fox,2016-04-07 21:43:00,twenty first century fox inc fox covered rbc capital,0.0,0.0,676.0,8.0,False,1
+718187272735211520,fox,2016-04-07 21:22:00,twenty first century fox initiated rbc capital outperform,0.0,0.0,4020.0,1.0,False,0
+718183403678535680,fox,2016-04-07 21:07:00,fox twenty first century fox inc nasdaq fox stock rating focus,0.0,0.0,614.0,0.0,False,0
+718172063186354176,fox,2016-04-07 20:22:00,twenty first century fox inc shares bought brown advisory inc read,0.0,0.0,10.0,2.0,False,1
+718136853346533376,fox,2016-04-07 18:02:00,fox foxa ‘american idol’ prepares sing final tune,0.0,0.0,743.0,6.0,False,0
+718136741278924800,fox,2016-04-07 18:01:00,not speak volumes far fallen fox even bothering series finale sweeps,0.0,0.0,774.0,10.0,False,1
+718121844608528386,fox,2016-04-07 17:02:00,rt marketcurrents cablevision installs hulu dedicated set top channel,0.0,0.0,4185.0,4982.0,False,1
+718118433129308160,fox,2016-04-07 16:49:00,cablevision installs hulu dedicated set top channel,0.0,0.0,259.0,1.0,False,0
+718118431778680833,fox,2016-04-07 16:49:00,cablevision installs hulu dedicated set top channel,0.0,0.0,3440.0,32.0,False,1
+718118429111283712,fox,2016-04-07 16:49:00,cablevision installs hulu dedicated set top channel,0.0,0.0,20993.0,32.0,False,0
+718115676695560192,fox,2016-04-07 16:38:00,twenty first century fox inc stake decreased principal financi read,0.0,0.0,10.0,2.0,False,0
+718095668968075264,fox,2016-04-07 15:18:00,fox 29.36 21 centry fox b cm fox added watch list right fox watching last price 29,0.0,0.0,886.0,441.0,False,0
+718089766030467072,fox,2016-04-07 14:55:00,fox early check twenty first century fox inc nasdaq fox,0.0,0.0,703.0,1.0,False,0
+718060829527019520,fox,2016-04-07 13:00:00,twenty first century fox inc shares bought bragg financial adv read,0.0,0.0,10.0,2.0,False,1
+718002897397489664,fox,2016-04-07 09:10:00,brokerages set twenty first century fox inc nasdaq target price read,0.0,0.0,10.0,2.0,False,1
+717975510534459392,fox,2016-04-07 07:21:00,fox key stocks day twenty first century fox inc nasdaq fox,0.0,0.0,568.0,0.0,False,0
+717833956352102400,fox,2016-04-06 21:58:00,twenty first century fox inc shares sold comerica bank read,0.0,0.0,10.0,2.0,False,1
+717815645052739584,fox,2016-04-06 20:46:00,twenty first century fox inc fox shares sold comerica bank,0.0,0.0,856.0,0.0,False,0
+717790100709572610,fox,2016-04-06 19:04:00,1948 consent decree limit viacoms search paramount stakeholder ctfn,0.0,0.0,869.0,1981.0,False,0
+717759321048657921,fox,2016-04-06 17:02:00,fox continuation detected around 0 apr 6 edt use 29.08 28.83 stop,0.0,0.0,0.0,0.0,False,0
+717727121284550657,fox,2016-04-06 14:54:00,century capital management llc invests dollars 137000 twenty first cen read,0.0,0.0,10.0,2.0,False,1
+717721039984312320,fox,2016-04-06 14:30:00,century fox fox news sunday chris wallace present exclusive,0.0,0.0,7032.0,65.0,False,1
+717705999612678145,fox,2016-04-06 13:30:00,fort washington investment advisors inc oh raises position twenty read,0.0,0.0,10.0,2.0,False,1
+717686045668716544,fox,2016-04-06 12:11:00,fox fox still value despite share going up chris lau,0.0,0.0,28.0,2.0,False,1
+717553299818291201,fox,2016-04-06 03:23:00,cable ratings cnn beats fox demo walking dead tails,0.0,0.0,5729.0,5388.0,False,1
+717529769600901121,fox,2016-04-06 01:50:00,cable ratings cnn beats fox demo walking dead tails,0.0,0.0,20963.0,32.0,False,1
+717418855111503872,fox,2016-04-05 18:29:00,fox twenty first century fox inc nasdaq fox added 18.7 …,0.0,0.0,562.0,0.0,False,1
+717383645380653056,fox,2016-04-05 16:09:00,rbc capital reaffirms outperform rating twenty first century fox inc fox,0.0,0.0,673.0,8.0,False,0
+717341501152317440,fox,2016-04-05 13:21:00,cmcsa fox blumenthal murphy left field comcast yes negotiations,0.0,0.0,421.0,370.0,False,1
+717326594511994881,fox,2016-04-05 12:22:00,twenty first century fox inc stake lowered palladium partners read,0.0,0.0,9.0,2.0,False,0
+717326439234691072,fox,2016-04-05 12:22:00,deere co sells 3470 shares twenty first century fox inc read,0.0,0.0,9.0,2.0,False,1
+717313644518739968,fox,2016-04-05 11:31:00,disneys expanded ceo search means bob igers tenure fox,2.0,0.0,17.0,0.0,False,1
+717297528903852032,fox,2016-04-05 10:27:00,services sector shareholder’s alert dis fox,0.0,0.0,257.0,863.0,False,0
+717297263685607425,fox,2016-04-05 10:26:00,dis fox services sector investor’s alert walt disney company nyse …,0.0,0.0,565.0,0.0,False,0
+717291777506611200,fox,2016-04-05 10:04:00,twenty first century fox inc fox shares sold palladium partners llc,0.0,0.0,1128.0,40.0,False,0
+717291293815083008,fox,2016-04-05 10:02:00,twenty first century fox inc fox shares sold palladium partners llc,0.0,0.0,673.0,8.0,False,1
+717210466813128704,fox,2016-04-05 04:41:00,fox shares twenty first century fox nasdaq fox sees large …,0.0,0.0,564.0,0.0,False,1
+717192290985349120,fox,2016-04-05 03:29:00,cydy running flks starting,0.0,0.0,130.0,12.0,False,0
+717113399063273472,fox,2016-04-04 22:15:00,distribs exhibs hold line clearances despite fox’s position change rgc amc cnk fox dis cmcsa via twx,0.0,0.0,1327.0,446.0,False,1
+717082869651234816,fox,2016-04-04 20:14:00,commonwealth pennsylvania public school empls retrmt sys sells 19 read,0.0,0.0,9.0,2.0,False,1
+717035307259072512,fox,2016-04-04 17:05:00,rt bouncing support testing new highs 4 n5 next resistance ibb amtd vrtx aeo wetf ziop rcl taho fox iei htt…,0.0,1.0,4.0,40.0,True,0
+717030834776227840,fox,2016-04-04 16:47:00,bouncing support testing new highs 4 n5 next resistance ibb amtd vrtx aeo wetf ziop rcl taho fox iei,6.0,1.0,873.0,1715.0,False,1
+717020424438226944,fox,2016-04-04 16:06:00,… ≈ fox «» «»,0.0,0.0,272.0,1263.0,False,1
+717014003562590208,fox,2016-04-04 15:40:00,rt twenty first century fox gains 3.26 percent dollars 9.12 friday among top 10 gainers p500 fox,0.0,1.0,29.0,23.0,True,1
+717001333543403520,fox,2016-04-04 14:50:00,rbc capital reiterates “outperform” rating twenty first century fox inc fox,0.0,0.0,847.0,0.0,False,1
+716983000127389696,fox,2016-04-04 13:37:00,analysts’ weekly ratings updates twenty first century fox fox,0.0,0.0,1126.0,40.0,False,0
+716982781939613696,fox,2016-04-04 13:36:00,fox 29.12 21 centry fox b cm fox added watch list right fox watching last price 29,0.0,0.0,878.0,441.0,False,1
+716981160505532416,fox,2016-04-04 13:30:00,analysts’ weekly ratings updates twenty first century fox fox,0.0,0.0,672.0,8.0,False,1
+716975279122595840,fox,2016-04-04 13:06:00,twenty first century fox inc fox raised hold zacks investment research,0.0,0.0,961.0,11.0,False,1
+716974586265526273,fox,2016-04-04 13:03:00,twenty first century fox inc fox raised hold zacks investment research,0.0,0.0,6077.0,2296.0,False,0
+716909605045940224,fox,2016-04-04 08:45:00,twenty first century fox gains 3.26 percent dollars 9.12 friday among top 10 gainers p500 fox,1.0,1.0,104.0,71.0,False,1
+716861691192086528,fox,2016-04-04 05:35:00,fox company shares twenty first century fox nasdaq fox rally …,0.0,0.0,700.0,1.0,False,1
+716772335722737664,fox,2016-04-03 23:40:00,bullish macd price least 20.00 above 21 dma volume least 500 thousand fis etr dps cck wms hsy txrh arw q kmx fox hog dnkn,0.0,0.0,716.0,62.0,False,1
+716760178889138177,fox,2016-04-03 22:51:00,box office batman v superman tanks 2 frame twx dis fox cmcsa,0.0,0.0,1767.0,1722.0,False,1
+716726298119417857,fox,2016-04-03 20:37:00,dis fox foxa ‘batman v superman’ holds top spot box office,0.0,0.0,606.0,0.0,False,1
+716703393616539648,fox,2016-04-03 19:06:00,rt parabolic sar buy,0.0,1.0,89.0,228.0,True,1
+716676313692512256,fox,2016-04-03 17:18:00,commented past peak trump,0.0,0.0,525.0,214.0,False,1
+716636782188584960,fox,2016-04-03 14:41:00,viral video biggest bubble entire u economy fox tsn tyc udr usb ua unp ual unh ups uri,0.0,0.0,5.0,35.0,False,0
+716628875774537728,fox,2016-04-03 14:10:00,parabolic sar buy,0.0,1.0,4494.0,2641.0,False,1
+716599163513737216,fox,2016-04-03 12:12:00,oppenheimerfunds inc acquires 22348 shares twenty first century read,0.0,0.0,9.0,2.0,False,1
+716452903351922688,fox,2016-04-03 02:30:00,rt box office battle batman v superman expected win weekend sne viab foxa fox dis lgf via cm,0.0,1.0,8459.0,9260.0,True,1
+716340923609849856,fox,2016-04-02 19:05:00,heard oann no coverage cnn fox awesome watch one america news fair,1.0,0.0,2349.0,1318.0,False,1
+716278350394880000,fox,2016-04-02 14:57:00,fox analysts expectations twenty first century fox inc nasdaq …,0.0,0.0,703.0,5.0,False,0
+716227414133747712,fox,2016-04-02 11:34:00,fox technical alerts expansion breakout reversal new highs setup bollinger band squeeze wide r,0.0,0.0,608.0,45.0,False,1
+716208325256429568,fox,2016-04-02 10:19:00,twenty first century fox inc fox trading up 3.3 percent,0.0,0.0,6077.0,2296.0,False,1
+716097160052256768,fox,2016-04-02 02:57:00,biggest gainers today large caps regn 12.43 percent cea 6.68 percent mu 5.35 percent mt 4.80 percent 4.31 percent hpe 3.78 percent tsla 3.40 percent nflx 3.39 percent fox 3.26 percent,0.0,0.0,175.0,29.0,False,1
+716056609504542720,fox,2016-04-02 00:16:00,first angry missed fox glad exe piggy,0.0,0.0,47.0,113.0,False,0
+716028818180411392,fox,2016-04-01 22:25:00,twenty first century fox inc fox trading up 3.3 percent,0.0,0.0,6077.0,2296.0,False,1
+716027641132892160,fox,2016-04-01 22:21:00,rt bullish two hundred day moving average cross fox actx,0.0,1.0,1081.0,1148.0,True,1
+716025314346815488,fox,2016-04-01 22:11:00,past peak trump,0.0,0.0,289.0,610.0,False,0
+716019982157479936,fox,2016-04-01 21:50:00,bullish two hundred day moving average cross fox actx,0.0,1.0,811.0,1188.0,False,1
+716016548360626176,fox,2016-04-01 21:37:00,fox twenty first century fox inc nasdaq fox analysts take …,0.0,0.0,737.0,6.0,False,1
+715994465459167232,fox,2016-04-01 20:09:00,todays top 5 technical gainers among large caps ilmn tsla fox wba amgn,2.0,0.0,14864.0,3.0,False,0
+715974272271958016,fox,2016-04-01 18:49:00,fox 1 million runaway 3 positive 3 percent .2 percent offhi 0 nearhi brkplo phipositive 4.1 percent accel tf 1111101 tlm 2.4 3 million ohi dyvol 2.62 million 0.9 times 0.6 times,0.0,0.0,6768.0,271.0,False,0
+715946878907461632,fox,2016-04-01 17:00:00,rt past peak trump,0.0,1.0,1223.0,3345.0,True,1
+715946850134568960,fox,2016-04-01 17:00:00,past peak trump,1.0,1.0,12227.0,31.0,False,1
+715945408975900672,fox,2016-04-01 16:54:00,twenty first century fox inc given outperform rating rbc capital read,0.0,0.0,9.0,2.0,False,1
+715940659715260416,fox,2016-04-01 16:35:00,fox twenty first century fox inc nasdaq fox value stock alert,0.0,0.0,563.0,0.0,False,1
+715937799262724096,fox,2016-04-01 16:24:00,cacti asset management llc dollars 8196000 position twenty first c read,0.0,0.0,9.0,2.0,False,1
+715930523948998656,fox,2016-04-01 15:55:00,cacti asset management llc dollars 8196000 position twenty first century fox inc fox,0.0,0.0,961.0,11.0,False,1
+715930195925053441,fox,2016-04-01 15:53:00,cacti asset management llc dollars 8196000 position twenty first century fox inc fox,0.0,0.0,6077.0,2296.0,False,0
+715929769431445505,fox,2016-04-01 15:52:00,cacti asset management llc boosts position twenty first century fox inc fox,0.0,0.0,6077.0,2296.0,False,1
+715927232292790273,fox,2016-04-01 15:42:00,twenty first century fox inc fox upgraded zacks investment research,0.0,0.0,848.0,0.0,False,1
+715925741246910464,fox,2016-04-01 15:36:00,trade ideas twenty first century fox fox todays barbarian gate stock fox,0.0,0.0,2196.0,1223.0,False,1
+715919064518885376,fox,2016-04-01 15:09:00,box office battle batman v superman expected win weekend sne viab foxa fox dis lgf via cm,0.0,1.0,12361.0,129.0,False,1
+715897917740023808,fox,2016-04-01 13:45:00,twenty first century fox inc fox given outperform rating rbc capital,0.0,0.0,2141.0,11.0,False,1
+715885366771716096,fox,2016-04-01 12:55:00,rt analyst sees movie theater stocks rally pausing downgrades shares amc cnk rgc sne viab foxa fox dis,0.0,1.0,667.0,288.0,True,1
+715884791028121600,fox,2016-04-01 12:53:00,norinchukin bank boosts position twenty first century fox inc fox,0.0,0.0,1126.0,40.0,False,1
+715868345300611072,fox,2016-04-01 11:48:00,rt seekingalpha past peak trump,0.0,0.0,8559.0,2.0,False,0
+715826869489299457,fox,2016-04-01 09:03:00,fox key stocks day twenty first century fox inc nasdaq fox,0.0,0.0,700.0,1.0,False,0
+715676697383870465,fox,2016-03-31 23:06:00,twenty first century foxs outperform rating reiterated rbc capital dollars 7.00 point,0.0,0.0,4519.0,2839.0,False,1
+715646441952251904,fox,2016-03-31 21:06:00,twenty first century fox inc fox earns outperform rating rbc capital,0.0,0.0,1126.0,40.0,False,1
+715645461613395972,fox,2016-03-31 21:02:00,twenty first century foxs outperform rating reiterated rbc capital dollars 7.00 point,0.0,0.0,4000.0,1.0,False,1
+715632593975246852,fox,2016-03-31 20:11:00,fox twenty first century fox inc nasdaq fox beat earning …,0.0,0.0,737.0,6.0,False,0
+715611865053696000,fox,2016-03-31 18:48:00,21 century interested stake viacom’s paramount studio fox via dwa amc,0.0,0.0,1768.0,1723.0,False,0
+715590602771943425,fox,2016-03-31 17:24:00,twenty first century fox inc shares bought sawtooth asset mana read,0.0,0.0,9.0,2.0,False,1
+715420596557905920,fox,2016-03-31 06:08:00,fox ends film screening practice read,0.0,0.0,9.0,2.0,False,1
+715420441335111680,fox,2016-03-31 06:08:00,fox ends film screening practice wsj read,0.0,0.0,9.0,2.0,False,1
+715336314472759297,fox,2016-03-31 00:34:00,premium alerts ranked gains 2834 percent last week,0.0,0.0,7101.0,0.0,False,0
+715283100943663104,fox,2016-03-30 21:02:00,stay relevant competitive market,0.0,0.0,4.0,23.0,False,0
+715237687490248704,fox,2016-03-30 18:02:00,21 century fox eyes minority slice paramount pictures read,0.0,0.0,9.0,2.0,False,1
+715227440486813696,fox,2016-03-30 17:21:00,twenty first century interested paramount deal source read,0.0,0.0,9.0,2.0,False,1
+715227285230452737,fox,2016-03-30 17:20:00,twenty first century said interested paramount deal read,0.0,0.0,9.0,2.0,False,1
+715213149067063296,fox,2016-03-30 16:24:00,reports fox interested stake paramount,0.0,0.0,258.0,1.0,False,0
+715213147305431040,fox,2016-03-30 16:24:00,reports fox interested stake paramount,0.0,0.0,1712.0,31.0,False,1
+715213145212518400,fox,2016-03-30 16:24:00,reports fox interested stake paramount,0.0,0.0,20935.0,32.0,False,1
+715208341635489792,fox,2016-03-30 16:05:00,twenty first century interested paramount deal source read,0.0,0.0,9.0,2.0,False,1
+715208186324602880,fox,2016-03-30 16:04:00,twenty first century interested paramount stake ny post read,0.0,0.0,9.0,2.0,False,0
+715208031064039424,fox,2016-03-30 16:04:00,twenty first century interested paramount deal source read,0.0,0.0,9.0,2.0,False,0
+715207875824463872,fox,2016-03-30 16:03:00,twenty first century interested paramount deal source read,0.0,0.0,9.0,2.0,False,0
+715207720601714691,fox,2016-03-30 16:03:00,twenty first century interested paramount stake ny post read,0.0,0.0,9.0,2.0,False,0
+715207565286592512,fox,2016-03-30 16:02:00,twenty first century interested paramount stake ny post read,0.0,0.0,9.0,2.0,False,1
+715197259466432512,fox,2016-03-30 15:21:00,analyst sees movie theater stocks rally pausing downgrades shares amc cnk rgc sne viab foxa fox dis,0.0,1.0,12361.0,129.0,False,1
+715177047409164288,fox,2016-03-30 14:01:00,syy im ko lmt fox jci pagp int chscp aal become,0.0,0.0,7155.0,7506.0,False,0
+715077467564810240,fox,2016-03-30 07:25:00,fox brokers deutsche bank rated twenty first century fox inc class …,0.0,0.0,606.0,0.0,False,0
+715071246321459200,fox,2016-03-30 07:00:00,cowen group inc dollars 989000 stake twenty first century fox inc fox,0.0,0.0,1126.0,40.0,False,0
+715026096383737862,fox,2016-03-30 04:01:00,fox twenty first century fox inc fox raised hold zacks …,0.0,0.0,606.0,0.0,False,1
+715010903356403712,fox,2016-03-30 03:00:00,twenty first century fox inc fox lifted hold zacks investment research,0.0,0.0,1126.0,40.0,False,1
+715007478803611648,fox,2016-03-30 02:47:00,twenty first century fox upgraded zacks investment research hold,0.0,0.0,4519.0,2839.0,False,0
+715006248442273792,fox,2016-03-30 02:42:00,twenty first century fox upgraded zacks investment research hold,0.0,0.0,4000.0,1.0,False,1
+714943982732767232,fox,2016-03-29 22:35:00,pson fox foxa former fox news commentator settles sec,0.0,0.0,703.0,5.0,False,1
+714942149016596480,fox,2016-03-29 22:27:00,cnn fox foxa fox news scores top cable ratings amid primaries,0.0,0.0,700.0,1.0,False,1
+714915354640785408,fox,2016-03-29 20:41:00,deadpool tops american sniper become north americas no 2 r rated movie another dollars 0 million left top passion fox,0.0,0.0,771.0,10.0,False,1
+714909092200976386,fox,2016-03-29 20:16:00,fox institutional investors love fox entertainment group inc …,0.0,0.0,700.0,1.0,False,1
+714865976634916864,fox,2016-03-29 17:25:00,century fox fox news channel tops basic cable quarter bot,0.0,0.0,7008.0,65.0,False,0
+714798461581922304,fox,2016-03-29 12:56:00,twenty first century fox inc fox rating lowered sell zacks investment research,0.0,0.0,848.0,0.0,False,0
+714757906424532992,fox,2016-03-29 10:15:00,fox analyst coverage updates – twenty first century fox inc …,0.0,0.0,563.0,0.0,False,1
+714752103869186049,fox,2016-03-29 09:52:00,olstein capital management l p dollars 208000 stake twenty first century fox inc fox,0.0,0.0,961.0,11.0,False,1
+714751574732587009,fox,2016-03-29 09:50:00,olstein capital management l p dollars 208000 stake twenty first century fox inc fox,0.0,0.0,6077.0,2296.0,False,1
+714576713888321536,fox,2016-03-28 22:15:00,fox deadpool officially highest grossing r rated movie ever,0.0,0.0,107.0,145.0,False,1
+714457171363303424,fox,2016-03-28 14:20:00,fox up rsns screwed,0.0,0.0,464.0,226.0,False,1
+714440518651023360,fox,2016-03-28 13:14:00,zacks investment research lowers twenty first century fox inc fox sell,1.0,0.0,672.0,8.0,False,1
+714429450876624898,fox,2016-03-28 12:30:00,twenty first century fox inc shares bought morgan stanley read,0.0,0.0,9.0,2.0,False,0
+714380235987423232,fox,2016-03-28 09:14:00,morgan stanley dollars 75947000 stake twenty first century fox inc fox,0.0,0.0,1126.0,40.0,False,0
+714380142521483264,fox,2016-03-28 09:14:00,morgan stanley dollars 75947000 stake twenty first century fox inc fox,0.0,0.0,848.0,0.0,False,1
+714332015663951873,fox,2016-03-28 06:03:00,fox twenty first century fox inc nyse fox receives dollars 2.06 …,0.0,0.0,866.0,9.0,False,1
+714331534879289344,fox,2016-03-28 06:01:00,fox twenty first century fox inc – get news ratings daily,0.0,0.0,700.0,1.0,False,1
+714321716164608000,fox,2016-03-28 05:22:00,fox large outflow money witnessed twenty first century fox,0.0,0.0,866.0,9.0,False,1
+714316254450855936,fox,2016-03-28 05:00:00,פוקס מצגת לשוק ההון מרץ 2016 fox,0.0,0.0,403.0,2.0,False,1
+714228580075585536,fox,2016-03-27 23:12:00,fox top stocks day twenty first century fox inc nasdaq fox,0.0,0.0,703.0,5.0,False,0
+714211975643930628,fox,2016-03-27 22:06:00,fox twenty first century fox fox short interest disclosure,0.0,0.0,866.0,9.0,False,0
