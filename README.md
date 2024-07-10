@@ -1,3 +1,4 @@
+This is a team project by Jingheng Wang, Joseph Schmidt, Aoran Wu and Alborz Ranjbar<br />
 The project is made up by 3 parts:<br />
 1. NLP_stock: This file shows how we train the best model among (Baseline Vader/Naive Bayes/BERT) for sentiment classification.<br />
 ![alttt](./assets/NLP.png) <br />
