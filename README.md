@@ -1,3 +1,4 @@
+# Introduction
 This is a team project by Jingheng Wang, Joseph Schmidt, Aoran Wu and Alborz Ranjbar<br />
 Target:<br />
 Use Sentiment Analysis from tweets to get the profitable trading algorithm.<br />
